@@ -5,8 +5,8 @@
 
 # MSASect2
 
-`MSASect2` is a pure Python 3.7+ library for performing [finite element assembly](https://en.wikipedia.org/wiki/Finite_element_method). Its main
-purpose is the transformation of bilinear forms into sparse matrices and linear forms into vectors.
+`MSASect2` is ----- library for performing [finite element assembly](https://en.wikipedia.org/wiki/Finite_element_method). Its main
+purpose is ------------.
 
 - Documentation: [link name](link)
 - GitHub: [link name](link)
