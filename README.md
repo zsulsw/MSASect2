@@ -11,8 +11,8 @@
 purpose is the transformation of bilinear forms into sparse matrices and linear forms into vectors.
 
 - Documentation: [link name](link)
-- GitHub: [https://github.com/cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)
-- PyPI: [https://pypi.org/project/cookiecutter/](https://pypi.org/project/cookiecutter/)
-- Free and open source software: [BSD license](https://github.com/cookiecutter/cookiecutter/blob/main/LICENSE)
+- GitHub: [link name](link)
+- PyPI: [link name](link)
+- Free and open source software: [link name](link)
 
-Release build for MSASect2
+
