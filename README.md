@@ -3,6 +3,6 @@
 </h1>
 <div align="center">
 [![pypi](https://img.shields.io/pypi/v/cookiecutter.svg)](https://pypi.org/project/cookiecutter/)
-
-# MSASect2
+</div>
+#MSASect2
 Release build for MSASect2
