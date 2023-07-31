@@ -5,12 +5,4 @@
 
 # MSASect2
 
-`MSASect2` is ----- library for performing [finite element assembly](https://en.wikipedia.org/wiki/Finite_element_method). Its main
-purpose is ------------.
-
-- Documentation: [link name](link)
-- GitHub: [link name](link)
-- PyPI: [link name](link)
-- Free and open source software: [link name](link)
-
-
+To be continued. 
