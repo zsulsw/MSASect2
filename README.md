@@ -75,7 +75,7 @@ To be continued.
 <!-- Features description goes here -->
 
 ## Bugs/Requests
-<!-- Information about bug reporting and feature requests -->
+Please send bug reports and feature requests through GitHub issue tracker. MSASect2 is currently under development now, and it's open to any constructive suggestions.
 
 ## Contributing
 <!-- Guidelines for contributing go here -->
