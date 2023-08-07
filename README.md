@@ -23,7 +23,46 @@ To be continued.
       <img src="https://img.shields.io/badge/Features-yellow" alt="Button">
     </a>
   </div>
-  <!-- Add other buttons here -->
+  <div>
+    <a href="#bugsrequests">
+      <img src="https://img.shields.io/badge/Bugs%2FRequests-red" alt="Button">
+    </a>
+  </div>
+  <div>
+    <a href="#contributing">
+      <img src="https://img.shields.io/badge/Contributing-orange" alt="Button">
+    </a>
+  </div>
+  <div>
+    <a href="#documentation">
+      <img src="https://img.shields.io/badge/Documentation-lightgrey" alt="Button">
+    </a>
+  </div>
+  <div>
+    <a href="#contact">
+      <img src="https://img.shields.io/badge/Contact-lightblue" alt="Button">
+    </a>
+  </div>
+  <div>
+    <a href="#license">
+      <img src="https://img.shields.io/badge/License-black" alt="Button">
+    </a>
+  </div>
+  <div>
+    <a href="#examples">
+      <img src="https://img.shields.io/badge/Examples-purple" alt="Button">
+    </a>
+  </div>
+  <div>
+    <a href="#acknowledgements">
+      <img src="https://img.shields.io/badge/Acknowledgements-pink" alt="Button">
+    </a>
+  </div>
+  <div>
+    <a href="#conclusion">
+      <img src="https://img.shields.io/badge/Conclusion-grey" alt="Button">
+    </a>
+  </div>
 </div>
 
 ## Installation
