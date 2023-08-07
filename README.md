@@ -7,17 +7,15 @@
 To be continued.
 
 ## Table of Contents
-<div class="toc-button"><img src="https://img.shields.io/badge/Installation-blue" alt="Button"> [Installation](#installation)
-- ![Button](https://img.shields.io/badge/Usage-green) [Usage](#usage)
-- ![Button](https://img.shields.io/badge/Features-yellow) [Features](#features)
-- ![Button](https://img.shields.io/badge/Bugs%2FRequests-red) [Bugs/Requests](#bugsrequests)
-- ![Button](https://img.shields.io/badge/Contributing-orange) [Contributing](#contributing)
-- ![Button](https://img.shields.io/badge/Documentation-lightgrey) [Documentation](#documentation)
-- ![Button](https://img.shields.io/badge/Contact-lightblue) [Contact](#contact)
-- ![Button](https://img.shields.io/badge/License-black) [License](#license)
-- ![Button](https://img.shields.io/badge/Examples-purple) [Examples](#examples)
-- ![Button](https://img.shields.io/badge/Acknowledgements-pink) [Acknowledgements](#acknowledgements)
-- ![Button](https://img.shields.io/badge/Conclusion-grey) [Conclusion](#conclusion)
+<div class="toc-button">
+  <img src="https://img.shields.io/badge/Installation-blue" alt="Button"> [Installation](#installation)
+</div>
+<div class="toc-button">
+  <img src="https://img.shields.io/badge/Usage-green" alt="Button"> [Usage](#usage)
+</div>
+<div class="toc-button">
+  <img src="https://img.shields.io/badge/Features-yellow" alt="Button"> [Features](#features)
+</div>
 
 ## Installation
 <!-- Installation instructions go here -->
