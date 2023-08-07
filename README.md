@@ -32,7 +32,11 @@
 <!-- Usage instructions go here -->
 
 ## Features
-<!-- Features description goes here -->
+- **Comprehensive Analysis Functions**: MSASect2 offers five major analysis functions for Cross-sectional Properties, Yield Surfaces, Moment Curves, Member Buckling Strength, and Section Buckling Strength.
+- **Advanced Geometry Support**: The software supports arbitrarily shaped section geometries, allowing for centerline and outline modeling techniques.
+- **Consideration of Twisting Effects**: It is the new requirement in AISC360-2022. MSASect2 considers twisting effects for nonsymmetric sections, ensuring a more accurate member buckling analysis.
+- **Robust Section Buckling Analysis**: The software employs both finite-strip and shell finite-element analysis methods for section buckling analysis.
+- **Cross-platform and User-friendly Interface**: MSASect2 is designed to be user-friendly and compatible across various platforms such as Windows, Mac OS, and Linux.
 
 ## Bugs/Requests
 Please send bug reports and feature requests through GitHub issue tracker. MSASect2 is currently under development now, and it's open to any constructive suggestions.
