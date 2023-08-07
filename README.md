@@ -7,14 +7,23 @@
 To be continued.
 
 ## Table of Contents
-<div class="toc-button">
-  <img src="https://img.shields.io/badge/Installation-blue" alt="Button"> [Installation](#installation)
-</div>
-<div class="toc-button">
-  <img src="https://img.shields.io/badge/Usage-green" alt="Button"> [Usage](#usage)
-</div>
-<div class="toc-button">
-  <img src="https://img.shields.io/badge/Features-yellow" alt="Button"> [Features](#features)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <a href="#installation">
+      <img src="https://img.shields.io/badge/Installation-blue" alt="Button">
+    </a>
+  </div>
+  <div>
+    <a href="#usage">
+      <img src="https://img.shields.io/badge/Usage-green" alt="Button">
+    </a>
+  </div>
+  <div>
+    <a href="#features">
+      <img src="https://img.shields.io/badge/Features-yellow" alt="Button">
+    </a>
+  </div>
+  <!-- Add other buttons here -->
 </div>
 
 ## Installation
