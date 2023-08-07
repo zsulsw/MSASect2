@@ -98,6 +98,7 @@ You agree to indemnify, defend, and hold harmless Developers, its officers, dire
   A high-performance interactive 2D/3D visualization library, licensed under the BSD license.
 - **ezdxf**: 
   Open-source Python library for reading, writing, and visualizing DXF files, licensed under the BSD license.
+  
 **We acknowledge** the valuable contributions of the developers and communities behind these libraries. The terms of their respective licenses apply to the use of these components in this software.
 
 ## Conclusion
