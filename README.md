@@ -7,8 +7,8 @@
 To be continued.
 
 ## Table of Contents
-- ![Button](https://img.shields.io/badge/Installation-blue) 
-- ![Button](https://img.shields.io/badge/Usage-green) [Usage]
+<div class="toc-button"><img src="https://img.shields.io/badge/Installation-blue" alt="Button"> [Installation](#installation)
+- ![Button](https://img.shields.io/badge/Usage-green) [Usage](#usage)
 - ![Button](https://img.shields.io/badge/Features-yellow) [Features](#features)
 - ![Button](https://img.shields.io/badge/Bugs%2FRequests-red) [Bugs/Requests](#bugsrequests)
 - ![Button](https://img.shields.io/badge/Contributing-orange) [Contributing](#contributing)
