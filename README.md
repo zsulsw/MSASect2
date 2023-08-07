@@ -2,9 +2,10 @@
 <div align="center">
 </div>
 
-# MSASect2
+# MSASect2 <img src="MSASect2 Logo" alt="MSASect2 Logo" width="50">
 
-To be continued.
+<p align="center"> <img src="Screenshots/MainScreen1.png" width="600" alt="Image Description">
+</p>
 
 ## Table of Contents
 <div style="display: flex; justify-content: space-between; align-items: center;">
