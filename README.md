@@ -23,6 +23,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center;"><p align="left"> <img src="Screenshots/MainScreen1.png" width="800" alt="Image Description"></p>
 </div>
 <!-- Sections --------------------------------------------------------------------------------->
+
 ## Installation
 <!-- Installation instructions go here -->
 
