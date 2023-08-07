@@ -5,3 +5,8 @@
 # MSASect2
 
 To be continued. 
+
+
+# Bugs/Requests
+
+Please send bug reports and feature requests through github issue tracker. VizTracer is currently under development now and it's open to any constructive suggestions.
