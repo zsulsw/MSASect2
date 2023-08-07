@@ -9,4 +9,4 @@ To be continued.
 
 # Bugs/Requests
 
-Please send bug reports and feature requests through github issue tracker. MSASect2 is currently under development now and it's open to any constructive suggestions.
+Please send bug reports and feature requests through GitHub issue tracker. MSASect2 is currently under development now, and it's open to any constructive suggestions.
