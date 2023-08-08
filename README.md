@@ -41,7 +41,6 @@ Please download the latest version:  <td><a href='https://github.com/zsulsw/MSAS
 
 Visit the **[GitHub Releases](https://github.com/zsulsw/MSASect2/releases)** to download the latest version or any previous release.
 
-
 ## Functions and Features
 <!--
 <div style="text-align: center;">
