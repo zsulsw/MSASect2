@@ -1,4 +1,4 @@
-<div align="center"><img src='./image/logo.png' style="height:auto; width: 120px" />
+<div align="center"><img src='./image/logo.png' style="height:auto; width: 20%; min-width: 100px; max-width: 200px;"/>
 <h1>MSASect2</h1>
 <strong>Advanced Cross-section Analysis Software (Available on Mac, Windows)</strong>  
   <br><br>
@@ -49,13 +49,13 @@ Visit the **[GitHub Releases](https://github.com/zsulsw/MSASect2/releases)** to 
 
 ### Analysis Algorithms
 - **Coordinate Method (CM):** Specifically designed for thin-walled sections.
-- **Finite Element Method (FEM):** Suitable for thick-walled sections.
+- **Finite Element Method (FEM):** Suitable for general cross-sections.
 
 ### Yielding Surfaces
 - Generate yielding surfaces for user-defined strain levels.
 - Perform strength checking based on section capacity factors.
 
-### Moment-Curvature
+### Moment Curvature
 - Multiple relationships including tangent/secant stiffness.
 
 ### Member Buckling
