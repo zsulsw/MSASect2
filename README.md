@@ -24,7 +24,13 @@ Liu, S. W., & Ziemian, R. D. (2023). MSASect2 - Matrix Structural Analysis Softw
 Liu, Si-Wei, and Ziemian, Ronald D. "MSASect2 - Matrix Structural Analysis Software for Arbitrary Cross-sections." 2023. Web. <http://www.msasect.com>.```
 ```
 
-## Disclaimer
+## ✔️ Disclaimer
+
+
+
+## ✏  Contributing
+
+📌 **Your contributions** are greatly appreciated! If you have any questions or suggestions that could further enhance the software, please don't hesitate to open a [**github issue**](https://github.com/marcomusy/vedo/issues). Your input will help make the software even better.
 
 
 ## 📜  References
