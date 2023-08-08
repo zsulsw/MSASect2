@@ -15,7 +15,7 @@
 ## About the Software
 **MSASect2** is a cross-platform software designed for comprehensive analysis of arbitrary cross-sections. This includes examining their cross-sectional properties, yield strengths, global and local buckling capacities, and more. The software hosts sophisticated numerical algorithms, derived from the research team led by [**Dr. Siwei Liu**](https://www.polyu.edu.hk/cee/people/academic-staff/dr-siwei-liu/) from the Department of Civil and Environmental Engineering at Hong Kong Polytechnic University. **MSASect2** is developed to address design challenges associated with complex and irregular cross-sections, which are increasingly popular in modern structures due to their superior structural efficiency. The software is free for both research and educational use. Furthermore, if you find the software helpful for your research or have thoughts on collaborative research, we would be delighted to hear from you.
 
-Please download the latest version:  <td><a href='https://github.com/zsulsw/MSASect2/releases'> <img src='./image/windows.png' style="height:14px; width: 14px" /> <b>Windowes: .zip </b></a> | </td> <td><a href='https://github.com/zsulsw/MSASect2/releases'> <img src='./image/mac.png' style="height:15px; width: 15px" /> <b>MacOS - Apple Silicon Chips: .dmg</b></a></td>
+Please download the latest version:  <td><a href='https://github.com/zsulsw/MSASect2/releases'> <img src='./image/windows.png' style="height:auto; width: 14px" /> <b>Windowes: .zip </b></a> | </td> <td><a href='https://github.com/zsulsw/MSASect2/releases'> <img src='./image/mac.png' style="height:auto; width: 15px" /> <b>MacOS - Apple Silicon Chips: .dmg</b></a></td>
 
 ## Developers
 **Developed by:**
@@ -30,11 +30,11 @@ Please download the latest version:  <td><a href='https://github.com/zsulsw/MSAS
 ## Install
 <table>
   <tr style="background-color: white;">
-    <td><a href='https://github.com/zsulsw/MSASect2/releases'><img src='./image/windows.png' style="height:14px; width: 14px" /> <b>Windowes:</b></a></td>
+    <td><a href='https://github.com/zsulsw/MSASect2/releases'><img src='./image/windows.png' style="height:auto; width: 14px" /> <b>Windowes:</b></a></td>
     <td colspan="2" style="text-align:center"><b>Unzip and Run "MSASect2.exe"</b></td>  
   </tr>
   <tr style="background-color: white;"text-align: center;">
-    <td><a href='https://github.com/zsulsw/MSASect2/releases'><img src='./image/mac.png' style="height:15px; width: 15px" /> <b>MacOS - Apple Silicon Chips:</b></a></td>
+    <td><a href='https://github.com/zsulsw/MSASect2/releases'><img src='./image/mac.png' style="height:auto; width: 15px" /> <b>MacOS - Apple Silicon Chips:</b></a></td>
     <td><b>Open DMG and copy "MSASect2" to Application</b></a></td>
   </tr>
 </table>
