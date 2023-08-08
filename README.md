@@ -1,7 +1,7 @@
 <div align="center"><img src='./image/logo.png' style="height:auto; width: 150px" />
 <h1>MSASect2</h1>
-Python-based Cross-section Analysis Software (Available on Mac, Windows)<br>
-<div align="left">
+Cross-section Analysis Software (Available on Mac, Windows)
+</div>
 
 [![Official Website](http://img.shields.io/badge/Website-www.msasect.com-blue?style=flat&logo=world&logoColor=white)](http://www.MSASect.com)
 <a href="https://github.com/zsulsw/MSASect2/releases" target="_blank">
@@ -46,7 +46,7 @@ Visit the **[GitHub Releases](https://github.com/zsulsw/MSASect2/releases)** to 
 
 ## 📕 Functions and Features
 
-- Python-based cross-section analysis software with **MacOS-ARM/Windows** supports, powerful and easy to use.
+- Cross-section analysis software with **MacOS-ARM/Windows** supports, powerful and easy to use.
 - Cross-sectional analysis on **arbitrary-shaped sections**, including the computation of **torsion**, **warping** and **shear** properties.
 - Two featured analysis algorithms:<br>&nbsp;&nbsp;&nbsp;&nbsp;**Coordinate method (CM)** - Designed for thin-walled sections.<br>&nbsp;&nbsp;&nbsp;&nbsp;**Finite element method (FEM)** - Designed for thick-walled sections.
 - Generation of **yielding surfaces** for user-defined strain level and **strength checking** based on section capacity factor.
