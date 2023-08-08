@@ -1,6 +1,6 @@
 <div align="center"><img src='./image/logo.png' style="height:auto; width: 150px" />
 <h1>MSASect2</h1>
-Cross-section Analysis Software (Available on Mac, Windows)<br>
+Cross-section Analysis Software (Available on Mac, Windows)<br><br>
 </div>
 
 [![Official Website](http://img.shields.io/badge/Website-www.msasect.com-blue?style=flat&logo=world&logoColor=white)](http://www.MSASect.com)
