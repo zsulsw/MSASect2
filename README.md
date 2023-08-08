@@ -15,7 +15,7 @@
 ## About the Software
 **MSASect2** is a cross-platform software designed for comprehensive analysis of arbitrary cross-sections. This includes examining their cross-sectional properties, yield strengths, global and local buckling capacities, and more. The software hosts sophisticated numerical algorithms, derived from the research team led by [**Dr. Siwei Liu**](https://www.polyu.edu.hk/cee/people/academic-staff/dr-siwei-liu/) from the Department of Civil and Environmental Engineering at Hong Kong Polytechnic University. **MSASect2** is developed to address design challenges associated with complex and irregular cross-sections, which are increasingly popular in modern structures due to their superior structural efficiency. The software is free for both research and educational use. Furthermore, if you find the software helpful for your research or have thoughts on collaborative research, we would be delighted to hear from you.
 
-Please download the latest version: [**Click here**](https://github.com/zsulsw/MSASect2/releases)
+Please download the latest version:  <td><a href='https://github.com/zsulsw/MSASect2/releases'> <img src='./image/windows.png' style="height:14px; width: 14px" /> <b>Windowes: .zip</b></a></td> <td><a href='https://github.com/zsulsw/MSASect2/releases'> <img src='./image/mac.png' style="height:15px; width: 15px" /> <b>MacOS: .dmg</b></a></td>
 
 ## Developers
 **Developed by:**
@@ -34,18 +34,8 @@ Please download the latest version: [**Click here**](https://github.com/zsulsw/M
     <td colspan="2" style="text-align:center"><b>MacOS</b></td>  
   </tr>
   <tr style="text-align: center">
-    <td>
-      <a href='https://chatboxai.app/?c=download-windows'>
-        <img src='./doc/windows.png' style="height:14px; width: 14px" />
-        <b>Setup.exe</b>
-      </a>
-    </td>
-    <td>
-      <a href='https://chatboxai.app/?c=download-mac-intel'>
-        <img src='./doc/mac.png' style="height:15px; width: 15px" />
-        <b>Intel</b>
-      </a>
-    </td>
+    <td><a href='https://github.com/zsulsw/MSASect2/releases'> <img src='./image/windows.png' style="height:14px; width: 14px" /> <b>Setup.exe</b></a></td>
+    <td><a href='https://github.com/zsulsw/MSASect2/releases'> <img src='./image/mac.png' style="height:15px; width: 15px" /> <b>Intel</b></a></td>
   </tr>
 </table>
 
@@ -53,12 +43,12 @@ Visit the **[GitHub Releases](https://github.com/zsulsw/MSASect2/releases)** to 
 
 
 ## Functions and Features
-
+<!--
 <div style="text-align: center;">
   <img src="URL_OF_YOUR_GIF" alt="GIF Example" width="300">
   <p style="margin-top: 10px;">Caption for the GIF</p>
 </div>
-
+-->
 
 ## Citation
 
