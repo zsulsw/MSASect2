@@ -6,9 +6,8 @@
 ![Status](https://img.shields.io/badge/status-beta-orange)
 
 ![Screen Shot Gif](/image/Main-Page.gif)
-(Avaiable on Windows and Mac)
 
-## About the software
+## About the Software
 Welcome to the Official Website of MSASect2 - Matrix Structural Analysis Software for Arbitrary Cross-sections - for academic and educational use
 
 ## Developers
@@ -58,16 +57,6 @@ Thin-Walled Structures, 2018. 132: p. 287-301,
 Thin-Walled Structures, 144, 106290,
 [DOI](https://doi.org/10.1016/j.tws.2019.106290)
 
-- Abdelrahman, A.H.A., Liu, Y. P., Liu, S.W., & Chan, S.L.:
-*"Simulation of thin-walled members with arbitrary-shaped cross-sections for static and dynamic analyses"*,
-International Journal of Structural Stability and Dynamics. 2020,
-[DOI](https://doi.org/10.1142/S021945542050128X)
-
-- Chen, L., Abdelrahman, A.H.A., Liu, S.W., Ziemian, R.D., and Chan, S.L.:
-*"Gaussian Beam–Column Element Formulation for Large-Deflection Analysis of Steel Members with Open Sections Subjected to Torsion"*,
-Journal of Structural Engineering, 2021. 147(12): p. 04021206,
-[DOI](https://doi.org/10.1061/(ASCE)ST.1943-541X.0003185)
-
 - Gao, W.L., Abdelrahman, A.H.A., Liu, S.W., & Ziemian, R.D.:
 *"Second-order dynamic time-history analysis of beam-columns with nonsymmetrical thin-walled steel sections"*,
 Thin-Walled Structures, 160(3), 107367,
@@ -78,32 +67,8 @@ Thin-Walled Structures, 160(3), 107367,
 Thin-Walled Structures, 163, 107755,
 [DOI](https://doi.org/10.1016/j.tws.2021.107755)
 
-- Zhang, J.Z., Chen, L., Liu, S.W., & Yam, M.C.:
-*"Efficient elastic buckling assessment algorithm for steel members with random non-uniform corrosion"*,
-Engineering Structures, 266, 114550,
-[DOI](https://doi.org/10.1016/j.engstruct.2022.114550)
-
-- Abdelrahman, A.H.A., Lotfy, S., & Liu, S.W.:
-*"Generalized line-element formulations for geometrically nonlinear analysis of nonsymmetric tapered steel members with warping and Wagner effects"*,
-Engineering Structures, 273, 115052,
-[DOI](https://doi.org/10.1016/j.engstruct.2022.115052)
-
-- Chen, L., Liu, S.W., Bai, R., & Chan, S.L.:
-*"Co-rotational formulations for geometrically nonlinear analysis of beam-columns including warping and Wagner effects"*,
-International Journal of Structural Stability and Dynamics, 23(05), 2350052,
-[DOI](https://doi.org/10.1142/S0219455423500529)
-
 - Chen, L., Gao, W.L., Liu, S.W., Ziemian, R.D., & Chan, S.L.:
 *"Geometric and material nonlinear analysis of steel members with nonsymmetric sections"*,
 Journal of Constructional Steel Research, 198, 107537,
 [DOI](https://doi.org/10.1016/j.jcsr.2022.107537)
 
-- Abdelrahman, A.H.A., Chen, L., Liu, S.W., & Ziemian, R.D.:
-*"Timoshenko line-element for stability analysis of tapered I-section steel members considering warping effects"*,
-Thin-Walled Structures, 175, 109198,
-[DOI](https://doi.org/10.1016/j.tws.2022.109198)
-
-- Chen, L., Liu, S.W., Zhang, J.Z., & Yam, M.C. :
-*"Efficient algorithm for elastic buckling of corroded I-section steel members with Monte Carlo simulation"*,
-Thin-Walled Structures, 175, 109216,
-[DOI](https://doi.org/10.1016/j.tws.2022.109216)
