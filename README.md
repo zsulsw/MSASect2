@@ -18,7 +18,7 @@ Welcome to the Official Website of MSASect2 - Matrix Structural Analysis Softwar
 
 **Contributed by (surnames in alphabetical order):**
 
-- Liang Chen, Wenlong Gao, Guanhua Li, Weihang Ouyang and Haoyi Zhang
+- Abdelrahman Ahmed, Liang Chen, Wenlong Gao, Guanhua Li, Weihang Ouyang and Haoyi Zhang
 
 ## Install
 
@@ -77,21 +77,21 @@ Thin-Walled Structures, 2018. 132: p. 287-301,
 
 - Liu, S.W., Gao, W.L., & Ziemian, R.D.:
 *"Improved line-element formulations for the stability analysis of arbitrarily- shaped open-section beam-columns"*,
-Thin-Walled Structures, 144, 106290,
+Thin-Walled Structures, 2019. 144, 106290,
 [DOI](https://doi.org/10.1016/j.tws.2019.106290)
 
 - Gao, W.L., Abdelrahman, A.H.A., Liu, S.W., & Ziemian, R.D.:
 *"Second-order dynamic time-history analysis of beam-columns with nonsymmetrical thin-walled steel sections"*,
-Thin-Walled Structures, 160(3), 107367,
+Thin-Walled Structures, 2021. 160(3), 107367,
 [DOI](https://doi.org/10.1016/j.tws.2020.107367)
 
 - Liu, S.W., Pekoz, T., Gao, W.L., Ziemian, R.D., & Crews, J:
 *"Frame analysis and design of industrial rack structures with perforated cold-formed steel columns"*,
-Thin-Walled Structures, 163, 107755,
+Thin-Walled Structures, 2021. 163, 107755,
 [DOI](https://doi.org/10.1016/j.tws.2021.107755)
 
 - Chen, L., Gao, W.L., Liu, S.W., Ziemian, R.D., & Chan, S.L.:
 *"Geometric and material nonlinear analysis of steel members with nonsymmetric sections"*,
-Journal of Constructional Steel Research, 198, 107537,
+Journal of Constructional Steel Research, 2022. 198, 107537,
 [DOI](https://doi.org/10.1016/j.jcsr.2022.107537)
 
