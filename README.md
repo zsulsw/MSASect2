@@ -27,6 +27,7 @@ Welcome to the Official Website of MSASect2 - Matrix Structural Analysis Softwar
 ## Citation
 
 If you use MSASect2 for academic research, please cite the software using the following:
+
 <details>
 <summary><strong>APA Formats:</strong> Click to Copy</summary>
 **APA Format:**
