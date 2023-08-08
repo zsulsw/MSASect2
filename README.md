@@ -34,6 +34,16 @@ Liu, Si-Wei, and Ziemian, Ronald D. "MSASect2 - Matrix Structural Analysis Softw
 
 📌 **Your contributions** are greatly appreciated! If you have any questions or suggestions that could further enhance the software, please don't hesitate to open a [**github issue**](https://github.com/zsulsw/MSASect2/issues). Your input will help make the software even better.
 
+
+## Acknowledgment 
+
+
+## ✔️ Disclaimer
+
+**Considerable care** has been taken to ensure the accuracy of this software. However, the user assumes full responsibility for its use, and the developers or distributors will not be liable for any damage caused by the use or misuse of this software. 
+
+The user should have a thorough understanding of the software's modeling, analysis, and design algorithms, and should compensate for any aspects that are not addressed. We recommend that a qualified and experienced engineer be appointed to check the input and verify the results produced by the software. The engineer should take professional responsibility for the information that is used.
+
 ## 📜  References
 
 **Scientific publications `MSASect2`:**
@@ -97,13 +107,3 @@ Thin-Walled Structures, 175, 109198,
 *"Efficient algorithm for elastic buckling of corroded I-section steel members with Monte Carlo simulation"*,
 Thin-Walled Structures, 175, 109216,
 [DOI](https://doi.org/10.1016/j.tws.2022.109216)
-
-
-## ✔️ Disclaimer
-
-**Considerable care** has been taken to ensure the accuracy of this software. However, the user assumes full responsibility for its use, and the developers or distributors will not be liable for any damage caused by the use or misuse of this software. 
-
-The user should have a thorough understanding of the software's modeling, analysis, and design algorithms, and should compensate for any aspects that are not addressed. We recommend that a qualified and experienced engineer be appointed to check the input and verify the results produced by the software. The engineer should take professional responsibility for the information that is used.
-
-## Acknowledgment 
-
