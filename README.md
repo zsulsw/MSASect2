@@ -34,6 +34,7 @@ Liu, Si-Wei, and Ziemian, Ronald D. "MSASect2 - Matrix Structural Analysis Softw
 
 📌 **Your contributions** are greatly appreciated! If you have any questions or suggestions that could further enhance the software, please don't hesitate to open a [**github issue**](https://github.com/zsulsw/MSASect2/issues). Your input will help make the software even better.
 
+We welcome contributions from the community to help improve and enhance MSASect2. Whether it's code improvements, bug fixes, or new features, your contributions are valuable. If you are interested in research collaborations related to the software's capabilities, please contact Dr. Siwei Liu at Email: [**si-wei.liu@polyu.edu.hk**](mailto:si-wei.liu@polyu.edu.hk).
 
 ## Acknowledgment 
 
@@ -42,11 +43,9 @@ Liu, Si-Wei, and Ziemian, Ronald D. "MSASect2 - Matrix Structural Analysis Softw
 
 **Considerable care** has been taken to ensure the accuracy of this software. However, the user assumes full responsibility for its use, and the developers or distributors will not be liable for any damage caused by the use or misuse of this software. 
 
-The user should have a thorough understanding of the software's modeling, analysis, and design algorithms, and should compensate for any aspects that are not addressed. We recommend that a qualified and experienced engineer be appointed to check the input and verify the results produced by the software. The engineer should take professional responsibility for the information that is used.
+The user should have a thorough understanding of the software's modeling, analysis, and design algorithms, and should compensate for any aspects that are not addressed.
 
 ## 📜  References
-
-**Scientific publications `MSASect2`:**
 
 - Liu, S.W., Ziemian, R.D., Chen, L., and Chan S.L.:
 *"Bifurcation and large-deflection analyses of thin-walled beam-columns with non-symmetric open-sections"*,
@@ -78,20 +77,10 @@ Thin-Walled Structures, 160(3), 107367,
 Thin-Walled Structures, 163, 107755,
 [DOI](https://doi.org/10.1016/j.tws.2021.107755)
 
-- Zhang, J.Z., Chen, L., Liu, S.W., & Yam, M.C.:
-*"Efficient elastic buckling assessment algorithm for steel members with random non-uniform corrosion"*,
-Engineering Structures, 266, 114550,
-[DOI](https://doi.org/10.1016/j.engstruct.2022.114550)
-
 - Abdelrahman, A.H.A., Lotfy, S., & Liu, S.W.:
 *"Generalized line-element formulations for geometrically nonlinear analysis of nonsymmetric tapered steel members with warping and Wagner effects"*,
 Engineering Structures, 273, 115052,
 [DOI](https://doi.org/10.1016/j.engstruct.2022.115052)
-
-- Chen, L., Liu, S.W., Bai, R., & Chan, S.L.:
-*"Co-rotational formulations for geometrically nonlinear analysis of beam-columns including warping and Wagner effects"*,
-International Journal of Structural Stability and Dynamics, 23(05), 2350052,
-[DOI](https://doi.org/10.1142/S0219455423500529)
 
 - Chen, L., Gao, W.L., Liu, S.W., Ziemian, R.D., & Chan, S.L.:
 *"Geometric and material nonlinear analysis of steel members with nonsymmetric sections"*,
@@ -102,8 +91,3 @@ Journal of Constructional Steel Research, 198, 107537,
 *"Timoshenko line-element for stability analysis of tapered I-section steel members considering warping effects"*,
 Thin-Walled Structures, 175, 109198,
 [DOI](https://doi.org/10.1016/j.tws.2022.109198)
-
-- Chen, L., Liu, S.W., Zhang, J.Z., & Yam, M.C. :
-*"Efficient algorithm for elastic buckling of corroded I-section steel members with Monte Carlo simulation"*,
-Thin-Walled Structures, 175, 109216,
-[DOI](https://doi.org/10.1016/j.tws.2022.109216)
