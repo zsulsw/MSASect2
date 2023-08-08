@@ -1,4 +1,4 @@
-# MSASect2 - Matrix Structural Analysis Software for Arbitrary Cross-sections
+# MSASect2 - Matrix Structural Analysis for Cross-sections
 
 Welcome to the Official Website of MSASect2 - Matrix Structural Analysis Software for Arbitrary Cross-sections - for academic and educational use
 
