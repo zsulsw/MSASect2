@@ -1,4 +1,7 @@
-# MSASect2 - Advanced Cross-section Analysis Software
+![logo.png](image%2Flogo.png)
+# MSASect2
+Advanced Cross-section Analysis Software (Avaiable on Windows and Mac)
+
 [![Official Website](http://img.shields.io/badge/Official%20Website-www.msasect.com-blue?style=flat&logo=world&logoColor=white)](http://www.MSASect.com)
 ![Platform](https://img.shields.io/badge/platform-windows%20%7C%20macos-red)
 ![Stable Version](https://img.shields.io/badge/version-1.0.6-green)
