@@ -63,6 +63,7 @@ We welcome contributions from the community to help improve and enhance MSASect2
 
 ## Acknowledgment 
 
+We extend our gratitude to the community members who have contributed to the development and improvement of MSASect2, and we invite others to join us in making a meaningful impact. Contributions, whether big or small, are appreciated and will be acknowledged here.
 
 ## ✔️ Disclaimer
 
