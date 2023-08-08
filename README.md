@@ -5,9 +5,9 @@
 <img alt="macOS" src="https://img.shields.io/badge/-macOS-black?style=flat-square&logo=apple&logoColor=white" />
 <a href="https://github.com/zsulsw/MSASect2/releases" target="_blank">
 <img alt="Windows" src="https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows&logoColor=white" />
-![Stable Version](https://img.shields.io/badge/version-1.0.6-green)
 ![Status](https://img.shields.io/badge/status-beta-orange)
 
+<!--![Stable Version](https://img.shields.io/badge/version-1.0.6-green)-->
 <!--![Platform](https://img.shields.io/badge/platform-windows%20%7C%20macos-red)-->
 
 ![Screen Shot Gif](/image/Main-Page.gif)
