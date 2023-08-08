@@ -34,7 +34,7 @@ Please download the latest version:  <td><a href='https://github.com/zsulsw/MSAS
     <td colspan="2" style="text-align:center"><b>MacOS</b></td>  
   </tr>
   <tr style="text-align: center">
-    <td><a href='https://github.com/zsulsw/MSASect2/releases/download/%23beta/Windows-MSASect2-v1.0.6.zip'> <img src='./image/windows.png' style="height:14px; width: 14px" /> <b>Setup.exe</b></a></td>
+    <td><a href='https://github.com/zsulsw/MSASect2/releases/download/%23beta/Windows-MSASect2-v1.0.6.zip'> <img src='./image/windows.png' style="height:14px; width: 14px" /> <b>Windowes: .zip</b></a></td>
     <td><a href='https://github.com/zsulsw/MSASect2/releases/download/%23beta/MacOS-ARM-MSASect2-v1.0.6.dmg'> <img src='./image/mac.png' style="height:15px; width: 15px" /> <b>MacOS: .dmg</b></a></td>
   </tr>
 </table>
