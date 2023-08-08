@@ -11,12 +11,33 @@
 Welcome to the Official Website of MSASect2 - Matrix Structural Analysis Software for Arbitrary Cross-sections - for academic and educational use
 
 ## Developers
+**Developed by:**
+
+- Siwei Liu - Assistant Professor, The Hong Kong Polytechnic University, [**si-wei.liu@polyu.edu.hk**](mailto:si-wei.liu@polyu.edu.hk).
+- Ronald D. Ziemian - Professor, Bucknell University, [**ziemian@bucknell.edu**](mailto:ziemian@bucknell.edu).
+
+**Contributed by (surname in alphabetical order):**
+
+- Liang Chen, Wenlong Gao, Guanhua Li, Weihang Ouyang and Haoyi Zhang
 
 ## Install
 
 ## Functions and Features
 
 ## Citation
+
+If you use MSASect2 for academic research, please cite the software using the following:
+<details>
+<summary><strong>APA Formats:</strong> Click to Copy</summary>
+**APA Format:**
+```plaintext
+Liu, S. W., & Ziemian, R. D. (2023). *MSASect2 - Matrix Structural Analysis Software for Arbitrary Cross-sections*. Retrieved from [http://www.msasect.com](http://www.msasect.com)
+<details>
+<summary><strong>MLA Formats:</strong> Click to Copy</summary>
+  **MLA Format:**
+```plaintext
+Liu, S. W., and R. D. Ziemian. *MSASect2 - Matrix Structural Analysis Software for Arbitrary Cross-sections*. 2023. Web. [http://www.msasect.com](http://www.msasect.com)
+
 
 If you use MSASect2 for academic research, please cite the software using the following:
 
