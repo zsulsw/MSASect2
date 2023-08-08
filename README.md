@@ -1,13 +1,12 @@
 # MSASect2 - Advanced Cross-section Analysis Software 
 
-(Avaiable on Windows and Mac)
-
 [![Official Website](http://img.shields.io/badge/Website-www.msasect.com-blue?style=flat&logo=world&logoColor=white)](http://www.MSASect.com)
 ![Platform](https://img.shields.io/badge/platform-windows%20%7C%20macos-red)
 ![Stable Version](https://img.shields.io/badge/version-1.0.6-green)
 ![Status](https://img.shields.io/badge/status-beta-orange)
 
 ![Screen Shot Gif](/image/Main-Page.gif)
+(Avaiable on Windows and Mac)
 
 ## About
 Welcome to the Official Website of MSASect2 - Matrix Structural Analysis Software for Arbitrary Cross-sections - for academic and educational use
