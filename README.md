@@ -29,14 +29,14 @@ Welcome to the Official Website of MSASect2 - Matrix Structural Analysis Softwar
 If you use MSASect2 for academic research, please cite the software using the following:
 
 <details>
-<summary><strong>APA Format:</strong> Click to Copy</summary>
+<summary><strong>APA Format:</strong> 📋</summary>
 
 Liu, S. W., & Ziemian, R. D. (2023). MSASect2 - Matrix Structural Analysis Software for Arbitrary Cross-sections. Retrieved from http://www.msasect.com
 
 </details>
 
 <details>
-<summary><strong>MLA Format:</strong> Click to Copy</summary>
+<summary><strong>MLA Format:</strong> 📋</summary>
 
 Liu, Si-Wei, and Ziemian, Ronald D. "MSASect2 - Matrix Structural Analysis Software for Arbitrary Cross-sections." 2023. Web. <http://www.msasect.com>
 </details>
