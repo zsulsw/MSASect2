@@ -47,14 +47,30 @@ Visit the **[GitHub Releases](https://github.com/zsulsw/MSASect2/releases)** to 
 
 ## 📕 Functions and Features
 
-- Cross-section analysis software with **MacOS-ARM/Windows** supports, powerful and easy to use.
-- Cross-sectional analysis on **arbitrary-shaped sections**, including the computation of **torsion**, **warping** and **shear** properties.
-- Two featured analysis algorithms:<br>&nbsp;&nbsp;&nbsp;&nbsp;**Coordinate method (CM)** - Designed for thin-walled sections.<br>&nbsp;&nbsp;&nbsp;&nbsp;**Finite element method (FEM)** - Designed for thick-walled sections.
-- Generation of **yielding surfaces** for user-defined strain level and **strength checking** based on section capacity factor.
-- **Moment-curvature** calculation as well as the multiple relationships with **tangent/secant stiffness**.
-- **Global bucking** detection for long members based on closed-form solutions and line-element simulation, the influence of **sectional asymmetry** is included.
-- For short members with **arbitrary thin-walled** cross-sections:<br>&nbsp;&nbsp;&nbsp;&nbsp;Eigenbuckling Analysis based on **finite strip/shell element methods**.<br>&nbsp;&nbsp;&nbsp;&nbsp;Detection of **local/distorsional** and **global buckling**.<br>&nbsp;&nbsp;&nbsp;&nbsp;Buckling mode **visuallisation**, **decomposition** and corresponding **load factors**.
-- User-friendly **graphical UI** and **multuiple visualisation** of:<br>&nbsp;&nbsp;&nbsp;&nbsp;**Real shapes and details** of cross-sections.<br>&nbsp;&nbsp;&nbsp;&nbsp;**3D view** of cross-sections on members and FE mesh models.<br>&nbsp;&nbsp;&nbsp;&nbsp;**3D Contours** of buckling mode shapes.
+### Analysis Algorithms
+- **Coordinate Method (CM):** Specifically designed for thin-walled sections.
+- **Finite Element Method (FEM):** Suitable for thick-walled sections.
+
+### Yielding Surfaces
+- Generate yielding surfaces for user-defined strain levels.
+- Perform strength checking based on section capacity factors.
+
+### Moment-Curvature
+- Multiple relationships including tangent/secant stiffness.
+
+### Member Buckling
+- For long members, including the influence of sectional asymmetry.
+
+### Section Buckling
+- Eigenbuckling analysis for arbitrary thin-walled cross-sections.
+- Detection of local/distortional and global buckling.
+- Buckling mode visualization, decomposition, and corresponding load factors.
+
+### User-Friendly UI and Visualization
+- Real shapes and details of cross-sections.
+- Visualize cross-sections on members and shell element/finite strip models.
+- Explore 3D contours of buckling mode shapes.
+
 ## 📌 Citation
 
 If you use MSASect2 for academic research, please cite the software using the following:
