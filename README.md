@@ -3,8 +3,6 @@
 Python-based Cross-section Analysis Software (Available on Mac, Windows)
 <div align="left">
 
----
-
 [![Official Website](http://img.shields.io/badge/Website-www.msasect.com-blue?style=flat&logo=world&logoColor=white)](http://www.MSASect.com)
 <a href="https://github.com/zsulsw/MSASect2/releases" target="_blank">
 <img alt="macOS" src="https://img.shields.io/badge/-macOS-black?style=flat-square&logo=apple&logoColor=white" />
