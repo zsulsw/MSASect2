@@ -29,20 +29,15 @@ Please download the latest version:  <td><a href='https://github.com/zsulsw/MSAS
 
 ## Install
 <table>
-  <tr>
-    <td style="text-align:center"><b>Windows</b></td>
-    <td colspan="2" style="text-align:center"><b>MacOS</b></td>  
+  <tr style="background-color: white;">
+    <td><a href='https://github.com/zsulsw/MSASect2/releases'><img src='./image/windows.png' style="height:14px; width: 14px" /> <b>Windowes:</b></a></td>
+    <td colspan="2" style="text-align:center"><b>Unzip and Run "MSASect2.exe"</b></td>  
   </tr>
-  <tr style="text-align: center">
-    <td><a href='https://github.com/zsulsw/MSASect2/releases'> <img src='./image/windows.png' style="height:14px; width: 14px" /> <b>Windowes: .zip</b></a></td>
-    <td><a href='https://github.com/zsulsw/MSASect2/releases'> <img src='./image/mac.png' style="height:15px; width: 15px" /> <b>MacOS - Apple Silicon Chips: .dmg</b></a></td>
+  <tr style="background-color: white;"text-align: center;">
+    <td><a href='https://github.com/zsulsw/MSASect2/releases'><img src='./image/mac.png' style="height:15px; width: 15px" /> <b>MacOS - Apple Silicon Chips:</b></a></td>
+    <td><b>Open DMG and copy "MSASect2" to Application</b></a></td>
   </tr>
 </table>
-
-
-<td><a href='https://github.com/zsulsw/MSASect2/releases'> <img src='./image/windows.png' style="height:14px; width: 14px" /> <b>Windowes:</b></a> Unzip and Run "MSASect2.exe"</td>
-
-<td><a href='https://github.com/zsulsw/MSASect2/releases'> <img src='./image/mac.png' style="height:15px; width: 15px" /> <b>MacOS - Apple Silicon Chips:</b></a> Open DMG and copy "MSASect2" to Application </td>
 
 Visit the **[GitHub Releases](https://github.com/zsulsw/MSASect2/releases)** to download the latest version or any previous release.
 
