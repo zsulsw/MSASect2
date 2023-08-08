@@ -33,6 +33,8 @@ Liu, Si-Wei, and Ziemian, Ronald D. "MSASect2 - Matrix Structural Analysis Softw
 
 📌 **Your contributions** are greatly appreciated! If you have any questions or suggestions that could further enhance the software, please don't hesitate to open a [**github issue**](https://github.com/zsulsw/MSASect2/issues). Your input will help make the software even better.
 
+We welcome contributions from the community to help improve and enhance MSASect2. Whether it's code improvements, bug fixes, or new features, your contributions are valuable. If you are interested in research collaborations related to the software's capabilities, please contact Dr. Siwei Liu at Email: [**si-wei.liu@polyu.edu.hk**](mailto:si-wei.liu@polyu.edu.hk).
+
 
 ## Acknowledgment 
 
