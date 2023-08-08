@@ -1,9 +1,14 @@
 # MSASect2 - Advanced Cross-section Analysis Software 
 
 [![Official Website](http://img.shields.io/badge/Website-www.msasect.com-blue?style=flat&logo=world&logoColor=white)](http://www.MSASect.com)
-![Platform](https://img.shields.io/badge/platform-windows%20%7C%20macos-red)
+<a href="https://github.com/zsulsw/MSASect2/releases" target="_blank">
+<img alt="macOS" src="https://img.shields.io/badge/-macOS-black?style=flat-square&logo=apple&logoColor=white" />
+<a href="https://github.com/zsulsw/MSASect2/releases" target="_blank">
+<img alt="Windows" src="https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows&logoColor=white" />
 ![Stable Version](https://img.shields.io/badge/version-1.0.6-green)
 ![Status](https://img.shields.io/badge/status-beta-orange)
+
+<!--![Platform](https://img.shields.io/badge/platform-windows%20%7C%20macos-red)-->
 
 ![Screen Shot Gif](/image/Main-Page.gif)
 
@@ -23,6 +28,29 @@ Please download the latest version: [**Click here**](https://github.com/zsulsw/M
 - Abdelrahman Ahmed, Guanhua Li, Haoyi Zhang, Liang Chen, Wenlong Gao, and Weihang Ouyang. 
 
 ## Install
+<table>
+  <tr>
+    <td style="text-align:center"><b>Windows</b></td>
+    <td colspan="2" style="text-align:center"><b>MacOS</b></td>  
+  </tr>
+  <tr style="text-align: center">
+    <td>
+      <a href='https://chatboxai.app/?c=download-windows'>
+        <img src='./doc/windows.png' style="height:14px; width: 14px" />
+        <b>Setup.exe</b>
+      </a>
+    </td>
+    <td>
+      <a href='https://chatboxai.app/?c=download-mac-intel'>
+        <img src='./doc/mac.png' style="height:15px; width: 15px" />
+        <b>Intel</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+Visit the **[GitHub Releases](https://github.com/zsulsw/MSASect2/releases)** to download the latest version or any previous release.
+
 
 ## Functions and Features
 
