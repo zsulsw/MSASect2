@@ -2,6 +2,7 @@
 [![Official Website](http://img.shields.io/badge/Official%20Website-www.msasect.com-blue?style=flat&logo=world&logoColor=white)](http://www.MSASect.com)
 ![Platform](https://img.shields.io/badge/platform-windows%20%7C%20macos-red)
 ![Stable Version](https://img.shields.io/badge/version-1.0.6-green)
+![Status](https://img.shields.io/badge/status-beta-orange)
 
 Welcome to the Official Website of MSASect2 - Matrix Structural Analysis Software for Arbitrary Cross-sections - for academic and educational use
 
