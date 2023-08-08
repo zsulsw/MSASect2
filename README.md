@@ -8,7 +8,7 @@
 ![Screen Shot Gif](/image/Main-Page.gif)
 
 ## About the Software
-Welcome to the Official Website of MSASect2 - Matrix Structural Analysis Software for Arbitrary Cross-sections - for academic and educational use
+**MSASect2** is a cross-platform software designed for comprehensive analysis of arbitrary cross-sections. This includes examining their cross-sectional properties, yield strengths, global and local buckling capacities, and more. The software hosts sophisticated numerical algorithms, derived from the research team led by [**Dr. Siwei Liu**](https://www.polyu.edu.hk/cee/people/academic-staff/dr-siwei-liu/) from the Department of Civil and Environmental Engineering at Hong Kong Polytechnic University. **MSASect2** is developed to address design challenges associated with complex and irregular cross-sections, which are increasingly popular in modern structures due to their superior structural efficiency. The software is free for both research and educational use. Furthermore, if you find the software helpful for your research or have thoughts on collaborative research, we would be delighted to hear from you.
 
 ## Developers
 **Developed by:**
