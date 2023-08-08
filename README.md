@@ -104,3 +104,6 @@ Thin-Walled Structures, 175, 109216,
 **Considerable care** has been taken to ensure the accuracy of this software. However, the user assumes full responsibility for its use, and the developers or distributors will not be liable for any damage caused by the use or misuse of this software. 
 
 The user should have a thorough understanding of the software's modeling, analysis, and design algorithms, and should compensate for any aspects that are not addressed. We recommend that a qualified and experienced engineer be appointed to check the input and verify the results produced by the software. The engineer should take professional responsibility for the information that is used.
+
+## Acknowledgment 
+
