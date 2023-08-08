@@ -1,4 +1,3 @@
-![logo.png](image%2Flogo.png)
 # MSASect2
 Advanced Cross-section Analysis Software (Avaiable on Windows and Mac)
 
