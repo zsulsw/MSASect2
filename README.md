@@ -31,10 +31,10 @@ Please download the latest version:  <td><a href='https://github.com/zsulsw/MSAS
 <table>
   <tr style="background-color: white;">
     <td><a href='https://github.com/zsulsw/MSASect2/releases'><img src='./image/windows.png' style="height:auto; width: 14px" /> <b>Windows:</b></a></td>
-    <td colspan="2" style="text-align:center"><b>1. Download Windows-MSASect2-(version number).zip<br>2. Unzip and Run "MSASect2.exe"</b></td>
+    <td colspan="2" style="text-align:center"><b>1. Download "Windows-MSASect2-(version number).zip"<br>2. Unzip and Run "MSASect2.exe"</b></td>
   <tr style="background-color: white;">
     <td><a href='https://github.com/zsulsw/MSASect2/releases'><img src='./image/mac.png' style="height:auto; width: 15px" /> <b>MacOS - M1&M2 Chips:</b></a></td>
-    <td><b>1. Download MacOS-ARM-MSASect2-(version number).dmg<br>2. Open DMG file and copy "MSASect2" to Application</b></td>
+    <td><b>1. Download "MacOS-ARM-MSASect2-(version number).dmg"<br>2. Open DMG file and copy "MSASect2" to Application</b></td>
 </table>
 
 Visit the **[GitHub Releases](https://github.com/zsulsw/MSASect2/releases)** to download the latest version or any previous release.
