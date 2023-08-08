@@ -16,7 +16,7 @@ Welcome to the Official Website of MSASect2 - Matrix Structural Analysis Softwar
 - Siwei Liu - Assistant Professor, The Hong Kong Polytechnic University, [**si-wei.liu@polyu.edu.hk**](mailto:si-wei.liu@polyu.edu.hk).
 - Ronald D. Ziemian - Professor, Bucknell University, [**ziemian@bucknell.edu**](mailto:ziemian@bucknell.edu).
 
-**Contributed by (surname in alphabetical order):**
+**Contributed by (surnames in alphabetical order):**
 
 - Liang Chen, Wenlong Gao, Guanhua Li, Weihang Ouyang and Haoyi Zhang
 
