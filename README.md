@@ -43,9 +43,7 @@ Liu, Si-Wei, and Ziemian, Ronald D. "MSASect2 - Matrix Structural Analysis Softw
 
 The user should have a thorough understanding of the software's modeling, analysis, and design algorithms, and should compensate for any aspects that are not addressed. We recommend that a qualified and experienced engineer be appointed to check the input and verify the results produced by the software. The engineer should take professional responsibility for the information that is used.
 
-## 📜  References
-
-**Scientific publications `MSASect2`:**
+## 📜  Useful References
 
 - Liu, S.W., Ziemian, R.D., Chen, L., and Chan S.L.:
 *"Bifurcation and large-deflection analyses of thin-walled beam-columns with non-symmetric open-sections"*,
