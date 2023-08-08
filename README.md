@@ -18,7 +18,7 @@ Welcome to the Official Website of MSASect2 - Matrix Structural Analysis Softwar
 
 **Contributed by (surnames in alphabetical order):**
 
-- Abdelrahman Ahmed, Liang Chen, Wenlong Gao, Guanhua Li, Weihang Ouyang and Haoyi Zhang
+- Abdelrahman Ahmed, Guanhua Li, Haoyi Zhang, Liang Chen, Wenlong Gao, and Weihang Ouyang. 
 
 ## Install
 
