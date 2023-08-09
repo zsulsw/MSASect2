@@ -50,24 +50,24 @@ Visit the **[GitHub Releases](https://github.com/zsulsw/MSASect2/releases)** to 
 ## 📕 Functions and Features
 
 ### Advanced Analysis Algorithms
-+ Cross-section Properties:  
++ **Cross-section Properties:**
   - **Coordinate Method (CM):** Specifically designed for thin-walled sections modeled via centerlines.
   - **Finite Element Method (FEM):** Suitable for general cross-sections modeled by outlines.
   - Geometric and sectorial properties, elastic and plastic modulus, Wagner coefficients, etc.
-+ Section Buckling Analysis:
++ **Section Buckling Analysis:**
   - **Finite Strip Method (FSM):** Efficient computational method for thin-walled sections. 
   - **Shell Fintie Element Method (SFEM):** Advanced computational method for the sections modeled via centerlines.
   - Elastic eigen-buckling analysis to evaluate the local, distortional and global buckling behaviors.  
-+ Member Buckling Analysis:
++ **Member Buckling Analysis:**
   - **Twisting Effects**: As the requirements in American Steel Design Specification (ANSI/AISC 360-22),the buckling behaviors of members with nonsymmetric or monosymmetric sections should be studied for the twisting effects.
   - **Analytical Solutions:** Flexural buckling, lateral torsional buckling, axial-torsional buckling.  
   - **Line Finite Element Method (LFEM)** Buckling analysis using advanced line finite-element, derived based on the nonsymmetric cross-section assumption, for general buckling conditions.
-+ Yield-surface Analysis:
++ **Yield-surface Analysis:**
   - **Quasi-Newton Divergence-Free Algorithms**:  Robust numerical algorithms for generation of yield surfaces.
   - **Fiber Section Solution:** Stress integration method using fibers is adopted with less computational efficiency but versatile. 
   - **Gaussian Line-Segment Solution** New stress integration method using gaussian line segments for centerline models and very efficient computationally.
   - Initial yield surface, failure surface, strength interaction surfaces at a specific strain status.  
-+ Moment Curvature Analysis:
++ **Moment Curvature Analysis:**
   - **Divergence-Free Algorithms**: Stable numerical procedure.
   - **Under Applied Axial Load** Automatically find the netural axis.  
   - Moment Curvature, moment vs. strain, moment vs. stress, tangent slops, sceant slopts and m vs. tau.
