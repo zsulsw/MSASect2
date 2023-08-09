@@ -49,9 +49,15 @@ Visit the **[GitHub Releases](https://github.com/zsulsw/MSASect2/releases)** to 
 
 ## 📕 Functions and Features
 
-### Analysis Algorithms
-- **Coordinate Method (CM):** Specifically designed for thin-walled sections.
-- **Finite Element Method (FEM):** Suitable for general cross-sections.
+### Advanced Analysis Algorithms
++ Cross-section Properties:  
+  - **Coordinate Method (CM):** Specifically designed for thin-walled sections modeled via centerlines.
+  - **Finite Element Method (FEM):** Suitable for general cross-sections modeled by outlines.
+  - Geometric and sectorial properties, elastic and plastic modulus, Wagner coefficients, etc.
++ Section Buckling Analysis:
+  - **Finite Strip Method (FSM):**  
+  - **Shell Fintie Element Method (FSM):** 
+  - Elastic eigen-buckling analysis to evaluate the local, distortional and global buckling behaviors 
 
 ### Yielding Surfaces
 - Generate yielding surfaces for user-defined strain levels.
