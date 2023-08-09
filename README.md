@@ -120,6 +120,16 @@ We welcome contributions from the community to help improve and enhance MSASect2
 
 ## 📜 Useful References
 
+- Liu, S.W., Liu, Y.P. & Chan, S.L.:
+*"Advanced analysis of hybrid steel and concrete frames: part 1: cross-section analysis technique and second-order analysis"*,
+Journal of Constructional Steel Research, 2012. 70, 326-336.
+[DOI](https://doi.org/10.1016/j.jcsr.2011.09.003)
+
+- Chen, L., Liu, S.W. & Chan, S.L.:
+*"Divergence-free algorithms for moment-thrust-curvature analysis of arbitrary sections"*,
+Steel and Composite Structures, An International Journal, 2017, 25 (5), 557-569
+[DOI](https://doi.org/10.12989/scs.2017.25.5.557)
+
 - Liu, S.W., Ziemian, R.D., Chen, L., and Chan S.L.:
 *"Bifurcation and large-deflection analyses of thin-walled beam-columns with non-symmetric open-sections"*,
 Thin-Walled Structures, 2018. 132: p. 287-301,
