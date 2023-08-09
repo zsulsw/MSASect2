@@ -59,15 +59,14 @@ Visit the **[GitHub Releases](https://github.com/zsulsw/MSASect2/releases)** to 
   - **Shell Fintie Element Method (SFEM):** Advanced computational method for the sections modeled via centerlines.
   - Elastic eigen-buckling analysis to evaluate the local, distortional and global buckling behaviors.  
 + Member Buckling Analysis:
-  - **Twisting Effects**: 
-  - **Analytical Solution:** Efficient computational method for thin-walled sections. 
-  - **Line Finite Element Method (LFEM)** .
-  - .  
+  - **Twisting Effects**: As the requirements in American Steel Design Specification (ANSI/AISC 360-22),the buckling behaviors of members with nonsymmetric or monosymmetric sections should be studied for the twisting effects.
+  - **Analytical Solutions:** Flexural buckling, lateral torsional buckling, axial-torsional buckling.  
+  - **Line Finite Element Method (LFEM)** Buckling analysis using advanced line finite-element, derived based on the nonsymmetric cross-section assumption, for general buckling conditions.
 + Yield-surface Analysis:
-  - **Twisting Effects**: 
-  - **Analytical Solution:** Efficient computational method for thin-walled sections. 
-  - **Line Finite Element Method (LFEM)** .
-  - .  
+  - **Quasi-Newton Divergence-Free Algorithms**:  Robust numerical algorithms for generation of yield surfaces.
+  - **Fiber Section Solution:** Stress integration method using fibers is adopted with less computational efficiency but versatile. 
+  - **Gaussian Line-Segment Solution** New stress integration method using gaussian line segments for centerline models and very efficient computationally.
+  - Initial yield surface, failure surface, strength interaction surfaces at a specific strain status.  
 + Moment Curvature Analysis:
   - **Twisting Effects**: 
   - **Analytical Solution:** Efficient computational method for thin-walled sections. 
