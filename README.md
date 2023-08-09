@@ -72,9 +72,11 @@ Visit the **[GitHub Releases](https://github.com/zsulsw/MSASect2/releases)** to 
   - **Under Applied Axial Load** Automatically find the netural axis.  
   - Moment Curvature, moment vs. strain, moment vs. stress, tangent slops, sceant slopts and m vs. tau.
 ### User-Friendly UI and Visualization
-- Real shapes and details of cross-sections.
-- Visualize cross-sections on members and shell element/finite strip models.
-- Explore 3D contours of buckling mode shapes.
+- Multiplatform application
+- Support arbitrary geometry modeled by either centerlines or outlines
+- Support dxf, excel, text files
+- Opengl module for visualization
+- Export to MASTAN2
 
 ## 📌 Citation
 
