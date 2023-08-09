@@ -68,11 +68,9 @@ Visit the **[GitHub Releases](https://github.com/zsulsw/MSASect2/releases)** to 
   - **Gaussian Line-Segment Solution** New stress integration method using gaussian line segments for centerline models and very efficient computationally.
   - Initial yield surface, failure surface, strength interaction surfaces at a specific strain status.  
 + Moment Curvature Analysis:
-  - **Twisting Effects**: 
-  - **Analytical Solution:** Efficient computational method for thin-walled sections. 
-  - **Line Finite Element Method (LFEM)** .
-  - .  
-
+  - **Divergence-Free Algorithms**: Stable numerical procedure.
+  - **Under Applied Axial Load** Automatically find the netural axis.  
+  - Moment Curvature, moment vs. strain, moment vs. stress, tangent slops, sceant slopts and m vs. tau.
 ### User-Friendly UI and Visualization
 - Real shapes and details of cross-sections.
 - Visualize cross-sections on members and shell element/finite strip models.
