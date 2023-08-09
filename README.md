@@ -55,24 +55,24 @@ Visit the **[GitHub Releases](https://github.com/zsulsw/MSASect2/releases)** to 
   - **Finite Element Method (FEM):** Suitable for general cross-sections modeled by outlines.
   - Geometric and sectorial properties, elastic and plastic modulus, Wagner coefficients, etc.
 + Section Buckling Analysis:
-  - **Finite Strip Method (FSM):**  
-  - **Shell Fintie Element Method (FSM):** 
-  - Elastic eigen-buckling analysis to evaluate the local, distortional and global buckling behaviors 
-
-### Yielding Surfaces
-- Generate yielding surfaces for user-defined strain levels.
-- Perform strength checking based on section capacity factors.
-
-### Moment Curvature
-- Multiple relationships including tangent/secant stiffness.
-
-### Member Buckling
-- For long members, including the influence of sectional asymmetry.
-
-### Section Buckling
-- Eigenbuckling analysis for arbitrary thin-walled cross-sections.
-- Detection of local/distortional and global buckling.
-- Buckling mode visualization, decomposition, and corresponding load factors.
+  - **Finite Strip Method (FSM):** Efficient computational method for thin-walled sections. 
+  - **Shell Fintie Element Method (SFEM):** Advanced computational method for the sections modeled via centerlines.
+  - Elastic eigen-buckling analysis to evaluate the local, distortional and global buckling behaviors.  
++ Member Buckling Analysis:
+  - **Twisting Effects**: 
+  - **Analytical Solution:** Efficient computational method for thin-walled sections. 
+  - **Line Finite Element Method (LFEM)** .
+  - .  
++ Yield-surface Analysis:
+  - **Twisting Effects**: 
+  - **Analytical Solution:** Efficient computational method for thin-walled sections. 
+  - **Line Finite Element Method (LFEM)** .
+  - .  
++ Moment Curvature Analysis:
+  - **Twisting Effects**: 
+  - **Analytical Solution:** Efficient computational method for thin-walled sections. 
+  - **Line Finite Element Method (LFEM)** .
+  - .  
 
 ### User-Friendly UI and Visualization
 - Real shapes and details of cross-sections.
