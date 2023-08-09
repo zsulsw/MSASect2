@@ -1,12 +1,12 @@
-<div align="center"><img src='./image/logo.png' style="height:auto; width: 20%; min-width: 100px; max-width: 200px;"/>
+<div align="center"><img src='./image/logo.png' style="height:auto; width: 10%; min-width: 100px; max-width: 200px;"/>
 <h1>MSASect2</h1>
-<strong>Advanced Cross-section Analysis Software (Available on Mac, Windows)</strong>  
+<strong>Advanced Cross-section Analysis Software (Available on Windows and MacOS)</strong>  
   <br><br>
 </div>
 
-[![Official Website](http://img.shields.io/badge/Website-www.msasect.com-blue?style=flat&logo=world&logoColor=white)](http://www.MSASect.com)
+[![Official Website](http://img.shields.io/badge/Website-msasect.com-green?style=flat&logo=world&logoColor=white)](http://www.MSASect.com)
 <a href="https://github.com/zsulsw/MSASect2/releases" target="_blank">
-<img alt="macOS" src="https://img.shields.io/badge/-macOS-black?style=flat-square&logo=apple&logoColor=white" />
+<img alt="macOS" src="https://img.shields.io/badge/-macOS-red?style=flat-square&logo=apple&logoColor=white" />
 </a>
 <a href="https://github.com/zsulsw/MSASect2/releases" target="_blank">
 <img alt="Windows" src="https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows&logoColor=white" />
@@ -19,15 +19,17 @@
 ![Screen Shot Gif](/image/Main-Page.gif)
 
 ## 🌟 About the Software
-**MSASect2** is a cross-platform software designed for comprehensive analysis of arbitrary cross-sections. This includes examining their cross-sectional properties, yield strengths, global and local buckling capacities, and more. The software hosts sophisticated numerical algorithms, derived from the research team led by [**Dr. Siwei Liu**](https://www.polyu.edu.hk/cee/people/academic-staff/dr-siwei-liu/) from the Department of Civil and Environmental Engineering at Hong Kong Polytechnic University. **MSASect2** is developed to address design challenges associated with complex and irregular cross-sections, which are increasingly popular in modern structures due to their superior structural efficiency. The software is free for both research and educational use. Furthermore, if you find the software helpful for your research or have thoughts on collaborative research, we would be delighted to hear from you.
+**MSASect2** is a cross-platform software developed for comprehensive analysis of arbitrary cross-sections with nonsymmetric shapes. This includes examining their cross-sectional properties, yield strengths, global and local buckling capacities, etc. The software hosts the advanced numerical algorithms, derived from the research team led by [**Dr. Siwei Liu**](https://www.polyu.edu.hk/cee/people/academic-staff/dr-siwei-liu/) from the Department of Civil and Environmental Engineering at Hong Kong Polytechnic University. **MSASect2** is developed to address design challenges associated with complex and irregular cross-sections, which are increasingly popular in modern structures due to their superior structural efficiency. The software is free for both research and educational use. 
 
-Please download the latest version:  <td><a href='https://github.com/zsulsw/MSASect2/releases'> <img src='./image/windows.png' style="height:auto; width: 14px" /> <b>Windowes: .zip </b></a> | </td> <td><a href='https://github.com/zsulsw/MSASect2/releases'> <img src='./image/mac_white.png' style="height:auto; width: 15px" /> <b>MacOS - Apple Silicon Chips: .dmg</b></a></td>
+**Please download the latest version:** <td><a href='https://github.com/zsulsw/MSASect2/releases'> <img src='./image/windows.png' style="height:auto; width: 14px" /> <b>Windowes: .zip </b></a> | </td> <td><a href='https://github.com/zsulsw/MSASect2/releases'> <img src='./image/mac_white.png' style="height:auto; width: 15px" /> <b>MacOS - Apple Silicon Chips: .dmg</b></a></td>
+
+If you find the software helpful for your research or have thoughts on collaborative research, we would be delighted to hear from you.
 
 ## ⛄ Developers
 **Developed by:**
 
 - [**Siwei Liu**](https://www.polyu.edu.hk/cee/people/academic-staff/dr-siwei-liu/) - Assistant Professor, The Hong Kong Polytechnic University, Hong Kong. [**si-wei.liu@polyu.edu.hk**](mailto:si-wei.liu@polyu.edu.hk).
-- [**Ronald D. Ziemian**](https://www.aisc.org/contacts/ronald-ziemian/) - Professor, Bucknell University, USA. [**ziemian@bucknell.edu**](mailto:ziemian@bucknell.edu).
+- [**Ronald D. Ziemian**](https://www.bucknell.edu/fac-staff/ronald-ziemian) - Professor, Bucknell University, USA. [**ziemian@bucknell.edu**](mailto:ziemian@bucknell.edu).
 
 **Contributed by (surnames in alphabetical order):**
 
@@ -35,10 +37,10 @@ Please download the latest version:  <td><a href='https://github.com/zsulsw/MSAS
 
 ## 💻 Install
 <table>
-  <tr style="background-color: white;">
+  <tr>
     <td><a href='https://github.com/zsulsw/MSASect2/releases'><img src='./image/windows.png' style="height:auto; width: 14px" /> <b>Windows:</b></a></td>
     <td colspan="2" style="text-align:center"><b>1. Download "Windows-MSASect2-(version number).zip"<br>2. Unzip and Run "MSASect2.exe"</b></td>
-  <tr style="background-color: white;">
+  <tr>
     <td><a href='https://github.com/zsulsw/MSASect2/releases'><img src='./image/mac_white.png' style="height:auto; width: 15px" /> <b>MacOS - M1&M2 Chips:</b></a></td>
     <td><b>1. Download "MacOS-ARM-MSASect2-(version number).dmg"<br>2. Open DMG file and copy "MSASect2" to Application</b></td>
 </table>
