@@ -28,8 +28,8 @@ If you find the software helpful for your research or have thoughts on collabora
 ## ⛄ Developers
 **Developed by:**
 
-- [**Siwei Liu**](https://www.polyu.edu.hk/cee/people/academic-staff/dr-siwei-liu/) - Assistant Professor, The Hong Kong Polytechnic University, Hong Kong. [**si-wei.liu@polyu.edu.hk**](mailto:si-wei.liu@polyu.edu.hk).
-- [**Ronald D. Ziemian**](https://www.bucknell.edu/fac-staff/ronald-ziemian) - Professor, Bucknell University, USA. [**ziemian@bucknell.edu**](mailto:ziemian@bucknell.edu).
+- [**Siwei Liu**](https://www.polyu.edu.hk/cee/people/academic-staff/dr-siwei-liu/) - Assistant Professor, The Hong Kong Polytechnic University. [**si-wei.liu@polyu.edu.hk**](mailto:si-wei.liu@polyu.edu.hk).
+- [**Ronald D. Ziemian**](https://www.bucknell.edu/fac-staff/ronald-ziemian) - Professor, Bucknell University. [**ziemian@bucknell.edu**](mailto:ziemian@bucknell.edu).
 
 **Contributed by (surnames in alphabetical order):**
 
