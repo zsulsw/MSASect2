@@ -66,7 +66,8 @@ When you open the software after installation, you may see the message:
 sudo xattr -r -d com.apple.quarantine 
 
 2. Open **Finder** and navigate to the **Applications** directory. Find the software icon.
-3.Drag the software icon into the Terminal window. This will append the path to the command you pasted. It should look something like:
+
+3. Drag the software icon into the Terminal window. This will append the path to the command you pasted. It should look something like:
 
 sudo xattr -r -d com.apple.quarantine /Applications/MSASect2.app
 
