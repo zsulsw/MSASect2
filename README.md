@@ -47,7 +47,7 @@ If you find the software helpful for your research or have thoughts on collabora
 
 Visit the **[GitHub Releases](https://github.com/zsulsw/MSASect2/releases)** to download the latest version or any previous release.
 
-## <img src='./image/mac.png' style="height:20px; width: 20px" /> Installation in MacOS Notes:
+## <img src='./image/mac.png' style="height:25px; width: 25px" /> Installation in MacOS Notes:
 
 When you open the software after installation, you may see the message:
 > "It is damaged and cannot be opened. You should move it to the Bin."
