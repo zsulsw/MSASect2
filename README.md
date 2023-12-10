@@ -47,7 +47,7 @@ If you find the software helpful for your research or have thoughts on collabora
 
 Visit the **[GitHub Releases](https://github.com/zsulsw/MSASect2/releases)** to download the latest version or any previous release.
 
-## <img src='./image/mac.png' style="height:auto; width: 20px" /> Installation in MacOS Notes:
+## <img src='./image/mac.png' style="height:20px; width: 20px" /> Installation in MacOS Notes:
 
 When you open the software after installation, you may see the message:
 > "It is damaged and cannot be opened. You should move it to the Bin."
@@ -63,15 +63,17 @@ When you open the software after installation, you may see the message:
 #### Second Step:
 1. Copy the following command, but don't press enter yet (Note the space at the end.):
 
-```console
-sudo xattr -r -d com.apple.quarantine```
+```
+sudo xattr -r -d com.apple.quarantine
+```
 
 2. Open **Finder** and navigate to the **Applications** directory. Find the software icon.
 
 3. Drag the software icon into the Terminal window. This will append the path to the command you pasted. It should look something like:
 
-```console
-sudo xattr -r -d com.apple.quarantine /Applications/MSASect2.app```
+```
+sudo xattr -r -d com.apple.quarantine /Applications/MSASect2.app
+```
 
 4. Press **Enter** in the Terminal window.
 5. You will be prompted for your system password. Enter it and press **Enter** again.
