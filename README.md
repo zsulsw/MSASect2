@@ -43,14 +43,11 @@ If you find the software helpful for your research or have thoughts on collabora
   <tr>
     <td><a href='https://github.com/zsulsw/MSASect2/releases'><img src='./image/mac.png' style="height:auto; width: 15px" /> <b>MacOS-ARM:</b></a></td>
     <td><b>1. Download "MacOS-ARM-MSASect2-(version number).dmg"<br>2. Open DMG file and copy "MSASect2" to Application</b></td>
-  <tr>
-    <td><a href='https://github.com/zsulsw/MSASect2/releases'><img src='./image/mac.png' style="height:auto; width: 15px" /> <b>MacOS-x86:</b></a></td>
-    <td><b>1. Download "MacOS-x86-MSASect2-(version number).dmg"<br>2. Open DMG file and copy "MSASect2" to Application</b></td>
 </table>
 
 Visit the **[GitHub Releases](https://github.com/zsulsw/MSASect2/releases)** to download the latest version or any previous release.
 
-## 🍏 Installation in MacOS Notes:
+##  Installation in MacOS Notes:
 
 When you open the software after installation, you may see the message:
 > "It is damaged and cannot be opened. You should move it to the Bin."
@@ -66,13 +63,13 @@ When you open the software after installation, you may see the message:
 #### Second Step:
 1. Copy the following command, but don't press enter yet (Note the space at the end.):
 
-sudo xattr -r -d com.apple.quarantine 
+console.log("sudo xattr -r -d com.apple.quarantine")
 
 2. Open **Finder** and navigate to the **Applications** directory. Find the software icon.
 
 3. Drag the software icon into the Terminal window. This will append the path to the command you pasted. It should look something like:
 
-sudo xattr -r -d com.apple.quarantine /Applications/MSASect2.app
+console.log("sudo xattr -r -d com.apple.quarantine /Applications/MSASect2.app")
 
 4. Press **Enter** in the Terminal window.
 5. You will be prompted for your system password. Enter it and press **Enter** again.
