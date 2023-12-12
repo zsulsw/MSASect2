@@ -187,3 +187,8 @@ Thin-Walled Structures, 2021. 163, 107755,
 Journal of Constructional Steel Research, 2022. 198, 107537,
 [DOI](https://doi.org/10.1016/j.jcsr.2022.107537)
 
+- Chen, L., Zhang, H. Y., Liu, S. W., & Ziemian, R. D.:
+*"Efficient line-element method for the second-order analysis of steel members with nonsymmetric thick-Walled cross sections"*,
+Journal of Structural Engineering, 2024. 150(2), 04023226.
+[DOI](https://doi.org/10.1061/JSENDH.STENG-12543)
+
