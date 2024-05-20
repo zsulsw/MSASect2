@@ -19,7 +19,7 @@
 ![Screen Shot Gif](/image/Main-Page.gif)
 
 ## 🌟 About the Software
-**MSASect2** is a cross-platform software developed for comprehensive analysis of arbitrary cross-sections with nonsymmetric shapes. This includes examining their cross-sectional properties, yield strengths, global and local buckling capacities, etc. The software hosts the advanced numerical algorithms, derived from the research team led by [Dr. Siwei Liu](https://www.gmnia.com) from the Department of Civil and Environmental Engineering at Hong Kong Polytechnic University. **MSASect2** is developed to address design challenges associated with complex and irregular cross-sections, which are increasingly popular in modern structures due to their superior structural efficiency. The software is free for both research and educational use. 
+**MSASect2** is a cross-platform software developed for comprehensive analysis of arbitrary cross-sections with nonsymmetric shapes. This includes examining their cross-sectional properties, yield strengths, global and local buckling capacities,stress analysis, heat transfer analysis,  etc. The software hosts the advanced numerical algorithms, derived from the research team led by [Dr. Siwei Liu](https://www.gmnia.com) from the Department of Civil and Environmental Engineering at Hong Kong Polytechnic University. **MSASect2** is developed to address design challenges associated with complex and irregular cross-sections, which are increasingly popular in modern structures due to their superior structural efficiency. The software is free for both research and educational use. 
 
 **Please download the latest version:** <td><a href='https://github.com/zsulsw/MSASect2/releases'> <img src='./image/windows.png' style="height:auto; width: 14px" /> <b>Windowes: *.zip </b></a> | </td> <td><a href='https://github.com/zsulsw/MSASect2/releases'> <img src='./image/mac.png' style="height:auto; width: 15px" /> <b>MacOS - Apple Silicon Chips: *.dmg</b></a></td>
 
@@ -31,7 +31,18 @@ If you find the software helpful for your research or have thoughts on collabora
 - [**Siwei Liu**](https://www.polyu.edu.hk/cee/people/academic-staff/dr-siwei-liu/) - Assistant Professor, The Hong Kong Polytechnic University. [**si-wei.liu@polyu.edu.hk**](mailto:si-wei.liu@polyu.edu.hk).
 - [**Ronald D. Ziemian**](https://www.bucknell.edu/fac-staff/ronald-ziemian) - Professor, Bucknell University. [**ziemian@bucknell.edu**](mailto:ziemian@bucknell.edu).
 
-**Contributed by (surnames in alphabetical order):**
+**Development team led by:**
+- Liang Chen - Postdoctoral Fellow, The Hong Kong Polytechnic University
+
+**Development Team:**
+- Wenlong Gao: Programming (Section properties, Yield surface, Moment Curvature, Member Buckling, Section Buckling), Debugging, Methodology.
+- Haoyi Zhang: Programming (Program structure, Visualization, Mesh, Section properties Member Buckling, Stress analysis), Debugging, Methodology
+- Guanhua Li: Programming (Functionally graded sections, Template, Member Buckling, Heat transfer).
+- Weihang Ouyang: Programming (Program structure, Member Buckling), Testing, Methodology.
+- Haien Xue: Programming (Stress analysis).
+- Zizhang Gu: Programming (Template, Heat transfer).
+- Anrui Liang; Programming (Section buckling).
+- A. H. A. Abdelrahman: Validation of Functionally graded sections.
 
 - Ahmed Hussain Ali Abdelrahman, Liang Chen, Wenlong Gao, Guanhua Li, Weihang Ouyang, and Haoyi Zhang. 
 
