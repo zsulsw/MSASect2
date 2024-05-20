@@ -44,7 +44,6 @@ If you find the software helpful for your research or have thoughts on collabora
 - Anrui Liang; Programming (Section buckling).
 - A. H. A. Abdelrahman: Validation of Functionally graded sections.
 
-- Ahmed Hussain Ali Abdelrahman, Liang Chen, Wenlong Gao, Guanhua Li, Weihang Ouyang, and Haoyi Zhang. 
 
 ## 💻 Install
 <table>
