@@ -36,7 +36,7 @@ If you find the software helpful for your research or have thoughts on collabora
 
 **Development Team:**
 - Wenlong Gao: Programming (Section properties, Yield surface, Moment Curvature, Member Buckling, Section Buckling), Debugging, Methodology.
-- Haoyi Zhang: Programming (Program structure, Visualization, Mesh, Section properties Member Buckling, Stress analysis), Debugging, Methodology.
+- Haoyi Zhang: Programming (Program structure, Visualization, Mesh, Section properties, Member Buckling, Stress analysis), Debugging, Methodology.
 - Guanhua Li: Programming (Functionally graded sections, Template, Member Buckling, Heat transfer), Debugging, Methodology.
 - Weihang Ouyang: Programming (Program structure, Member Buckling), Testing, Methodology.
 - Haien Xue: Programming (Stress analysis).
