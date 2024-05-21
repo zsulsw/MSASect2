@@ -36,8 +36,8 @@ If you find the software helpful for your research or have thoughts on collabora
 
 **Development Team:**
 - Wenlong Gao: Programming (Section properties, Yield surface, Moment Curvature, Member Buckling, Section Buckling), Debugging, Methodology.
-- Haoyi Zhang: Programming (Program structure, Visualization, Mesh, Section properties Member Buckling, Stress analysis), Debugging, Methodology
-- Guanhua Li: Programming (Functionally graded sections, Template, Member Buckling, Heat transfer).
+- Haoyi Zhang: Programming (Program structure, Visualization, Mesh, Section properties Member Buckling, Stress analysis), Debugging, Methodology.
+- Guanhua Li: Programming (Functionally graded sections, Template, Member Buckling, Heat transfer), Debugging, Methodology.
 - Weihang Ouyang: Programming (Program structure, Member Buckling), Testing, Methodology.
 - Haien Xue: Programming (Stress analysis).
 - Zizhang Gu: Programming (Template, Heat transfer).
@@ -102,12 +102,12 @@ sudo xattr -r -d com.apple.quarantine /Applications/MSASect2.app
   - **Shell Finite Element Method (SFEM):** Advanced computational method for the sections modeled via centerlines.
   - Elastic eigen-buckling analysis to evaluate the local, distortional and global buckling behaviors.  
 + **Member Buckling Analysis:**
-  - **Twisting Effects**: As the requirements in American Steel Design Specification (ANSI/AISC 360-22),the buckling behaviors of members with nonsymmetric or monosymmetric sections should be studied for the twisting effects.
+  - **Twisting Effects:** As the requirements in American Steel Design Specification (ANSI/AISC 360-22),the buckling behaviors of members with nonsymmetric or monosymmetric sections should be studied for the twisting effects.
   - **Analytical Solutions:** Flexural buckling, lateral torsional buckling, axial-torsional buckling.  
   - **Eigen-buckling Analysis:** Buckling analysis using advanced line finite-element, derived based on the nonsymmetric cross-section assumption, for general buckling conditions.
   - **Semi-Rigid Connections:** Semi-rigid connections in any DOFs can be considered.
 + **Yield-surface Analysis:**
-  - **Quasi-Newton Divergence-Free Algorithms**:  Robust numerical algorithms for generation of yield surfaces.
+  - **Quasi-Newton Divergence-Free Algorithms:**  Robust numerical algorithms for generation of yield surfaces.
   - **Fiber Section Solution:** Stress integration method using fibers is adopted with less computational efficiency but versatile. 
   - **Gaussian Line-Segment Solution:** New stress integration method using gaussian line segments for centerline models and very efficient computationally.
   - Initial yield surface, failure surface, strength interaction surfaces at a specific strain status.  
@@ -117,12 +117,12 @@ sudo xattr -r -d com.apple.quarantine /Applications/MSASect2.app
   - Various types of stress contours can be generated for output including normal stress, shear stress, von Mises stress, and major and minor principal stresses.
 + **Heat Transfer Analysis:**
   - **Finite Element Method (FEM):** Robust numerical algorithms for general cross-sections modeled by outlines.
-  - Gaussian heat transfer analysis method using Gaussian planar triangular elements for outline models and very efficient computationally.
+  - **Gaussian heat transfer analysis:** This method uses Gaussian planar triangular elements for outline models and is computationally efficient.
   - **Steady-state and transient analysis** for heat transfer considering different boundary conditions, e.g., temperature, heat flux, convection, and emissivity.
-  - **Fire retardant coating** can be considered in the analysis.
+  - **Fire retardant coatings** are considered in the analysis.
 + **Moment Curvature Analysis:**
-  - **Divergence-Free Algorithms**: Stable numerical procedure.
-  - **Under Applied Axial Load** Automatically find the netural axis.  
+  - **Divergence-Free Algorithms:** Stable numerical procedure.
+  - **Under Applied Axial Load:** Automatically find the netural axis.  
   - Moment Curvature, moment vs. strain, moment vs. stress, tangent slops, sceant slopts and m vs. tau.
 ### User-Friendly UI and Visualization
 - Multiplatform application
