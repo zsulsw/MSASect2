@@ -97,18 +97,29 @@ sudo xattr -r -d com.apple.quarantine /Applications/MSASect2.app
   - **Finite Element Method (FEM):** Suitable for general cross-sections modeled by outlines.
   - Geometric and sectorial properties, elastic and plastic modulus, Wagner coefficients, etc.
 + **Section Buckling Analysis:**
-  - **Finite Strip Method (FSM):** Efficient computational method for thin-walled sections. 
-  - **Shell Fintie Element Method (SFEM):** Advanced computational method for the sections modeled via centerlines.
+  - **Finite Strip Method (FSM):** Efficient computational method for thin-walled sections (import and export to CUFSM5 supported). 
+  - **Inelastic Finite Strip Method:** Material nonlinearity is supported in the buckling analysis of members with arbitrary sections using FSM.
+  - **Shell Finite Element Method (SFEM):** Advanced computational method for the sections modeled via centerlines.
   - Elastic eigen-buckling analysis to evaluate the local, distortional and global buckling behaviors.  
 + **Member Buckling Analysis:**
   - **Twisting Effects**: As the requirements in American Steel Design Specification (ANSI/AISC 360-22),the buckling behaviors of members with nonsymmetric or monosymmetric sections should be studied for the twisting effects.
   - **Analytical Solutions:** Flexural buckling, lateral torsional buckling, axial-torsional buckling.  
-  - **Line Finite Element Method (LFEM)** Buckling analysis using advanced line finite-element, derived based on the nonsymmetric cross-section assumption, for general buckling conditions.
+  - **Eigen-buckling Analysis:** Buckling analysis using advanced line finite-element, derived based on the nonsymmetric cross-section assumption, for general buckling conditions.
+  - **Semi-Rigid Connections:** Semi-rigid connections in any DOFs can be considered.
 + **Yield-surface Analysis:**
   - **Quasi-Newton Divergence-Free Algorithms**:  Robust numerical algorithms for generation of yield surfaces.
   - **Fiber Section Solution:** Stress integration method using fibers is adopted with less computational efficiency but versatile. 
-  - **Gaussian Line-Segment Solution** New stress integration method using gaussian line segments for centerline models and very efficient computationally.
+  - **Gaussian Line-Segment Solution:** New stress integration method using gaussian line segments for centerline models and very efficient computationally.
   - Initial yield surface, failure surface, strength interaction surfaces at a specific strain status.  
++ **Stress Analysis:**
+  - **Stress Analysis over the Cross-section:** A stress analysis determines the stresses in a section resulting from various forces and moments. These include axial force, shear force, bending moment, torque, and bi-moment.
+  - The algorithms consider different **warping restraints**. These include free-free, fixed-fixed, and fixed-free conditions at both ends of the support.
+  - Various types of stress contours can be generated for output including normal stress, shear stress, von Mises stress, and major and minor principal stresses.
++ **Heat Transfer Analysis:**
+  - **Finite Element Method (FEM):** Robust numerical algorithms for general cross-sections modeled by outlines.
+  - Gaussian heat transfer analysis method using Gaussian planar triangular elements for outline models and very efficient computationally.
+  - **Steady-state and transient analysis** for heat transfer considering different boundary conditions, e.g., temperature, heat flux, convection, and emissivity.
+  - **Fire retardant coating** can be considered in the analysis.
 + **Moment Curvature Analysis:**
   - **Divergence-Free Algorithms**: Stable numerical procedure.
   - **Under Applied Axial Load** Automatically find the netural axis.  
@@ -118,6 +129,7 @@ sudo xattr -r -d com.apple.quarantine /Applications/MSASect2.app
 - Support arbitrary geometry modeled by either centerlines or outlines
 - Support dxf, excel, text files
 - Opengl module for visualization
+- Import and export to CUFSM5
 - Export to MASTAN2
 
 ## 📌 Citation
