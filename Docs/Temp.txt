@@ -1,0 +1,1 @@
+This file is used for maintaining the "Docs" folder in the GitHub repository.
