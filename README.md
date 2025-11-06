@@ -18,31 +18,22 @@
 ![Screen Shot Gif](/image/v2.4.0-Main-Page.gif)
 
 ## 🌟 About the Software
-**MSASect2** is a cross-platform software developed for comprehensive analysis of arbitrary cross-sections with nonsymmetric shapes. This includes examining their cross-sectional properties, yield strengths, global and local buckling capacities,stress analysis, heat transfer analysis, etc. The software hosts the advanced numerical algorithms, derived from the research team led by [Dr. Siwei Liu](https://www.gmnia.com) from the Department of Civil and Environmental Engineering at Hong Kong Polytechnic University. **MSASect2** is developed to address design challenges associated with complex and irregular cross-sections, which are increasingly popular in modern structures due to their superior structural efficiency. The software is free for both research and educational use. 
+**MSASect2** is a cross-platform software developed for comprehensive analysis of arbitrary cross-sections with nonsymmetric shapes. This includes examining their cross-sectional properties, yield strengths, global and local buckling capacities,stress analysis, heat transfer analysis, etc. The software is developed to address design challenges associated with complex and irregular cross-sections, which are increasingly popular in modern structures due to their superior structural efficiency. The software is free for both research and educational use.
 
-**Please download the latest version:** <td><a href='https://github.com/zsulsw/MSASect2/releases/download/%23stable-v2.4.0/1-MSASect2-v2.4.0-Windows.zip'> <img src='./image/windows.png' style="height:auto; width: 18px" /> <b>Windows: *.zip - 290MB</b></a> | </td> <td><a href='https://github.com/zsulsw/MSASect2/releases/download/%23stable-v2.4.0/2-MSASect2-v2.4.0-MacOS-ARM.dmg'> <img src='./image/mac.png' style="height:auto; width: 19px" /> <b>MacOS - Apple Silicon Chips: *.dmg - 301MB</b></a> | </td> <td><a href='https://github.com/zsulsw/MSASect2/releases/download/%23stable-v2.4.0/3-MSASect2-v2.4.0-MacOS-x86.dmg'> <img src='./image/mac.png' style="height:auto; width: 19px" /> <b>MacOS - Intel Chips: *.dmg - 348MB</b></a></td>
+**Please download the latest version:**
+
+<a href='https://github.com/zsulsw/MSASect2/releases/download/%23stable-v2.4.0/1-MSASect2-v2.4.0-Windows.zip'>
+<img src='./image/windows.png' style="height:auto; width: 18px" alt="Windows" /> <b>Windows: *.zip - 290MB</b>
+</a><br>
+<a href='https://github.com/zsulsw/MSASect2/releases/download/%23stable-v2.4.0/2-MSASect2-v2.4.0-MacOS-ARM.dmg'>
+<img src='./image/mac.png' style="height:auto; width: 19px" alt="Mac" /> <b>MacOS - Apple Silicon: *.dmg - 301MB</b>
+</a><br>
+<a href='https://github.com/zsulsw/MSASect2/releases/download/%23stable-v2.4.0/3-MSASect2-v2.4.0-MacOS-x86.dmg'>
+  <img src='./image/mac.png' style="height:auto; width: 19px" alt="Mac" /> <b>MacOS - Intel: *.dmg - 348MB</b>
+
+</a></td>
 
 If you find the software helpful for your research or have thoughts on collaborative research, we would be delighted to hear from you.
-
-## ⛄ Developers
-**Developed by:**
-
-- [**Siwei Liu**](https://zsulsw.github.io/) - Assistant Professor, The Hong Kong Polytechnic University. [**si-wei.liu@polyu.edu.hk**](mailto:si-wei.liu@polyu.edu.hk).
-- [**Ronald D. Ziemian**](https://www.bucknell.edu/fac-staff/ronald-ziemian) - Professor, Bucknell University. [**ziemian@bucknell.edu**](mailto:ziemian@bucknell.edu).
-
-**Development team led by:**
-- Liang Chen - Postdoctoral Fellow, The Hong Kong Polytechnic University
-
-**Development Team:**
-- Wenlong Gao: Programming (Section properties, Yield surface, Moment Curvature, Member Buckling, Section Buckling), Debugging, Methodology.
-- Haoyi Zhang: Programming (Program structure, Visualization, Mesh, Section properties, Member Buckling, Stress analysis), Debugging, Methodology.
-- Guanhua Li: Programming (Functionally graded sections, Templates, Member Buckling, Heat transfer), Debugging, Methodology.
-- Weihang Ouyang: Programming (Program structure, Member Buckling), Testing, Methodology.
-- Haien Xue: Programming (Stress analysis).
-- Zizhang Gu: Programming (Template, Heat transfer).
-- Anrui Liang; Programming (Section buckling).
-- A. H. A. Abdelrahman: Validation of Functionally graded sections.
-
 
 ## 💻 Install
 <table>
@@ -50,17 +41,16 @@ If you find the software helpful for your research or have thoughts on collabora
     <td><a href='https://github.com/zsulsw/MSASect2/releases/download/%23stable-v2.4.0/1-MSASect2-v2.4.0-Windows.zip'><img src='./image/windows.png' style="height:auto; width: 18px" /> <b>Windows:</b></a></td>
     <td><b>1. Download "MSASect2-(version number)-Windows.zip"<br>2. Unzip and Run "MSASect2.exe"</b></td>
   <tr>
-    <td><a href='https://github.com/zsulsw/MSASect2/releases'><img src='./image/mac.png' style="height:auto; width: 19px" /> <b>MacOS-ARM:</b></a></td>
+    <td><a href='https://github.com/zsulsw/MSASect2/releases'><img src='./image/mac.png' style="height:auto; width: 19px" /> <b>MacOS - ARM:</b></a></td>
     <td><b>1. Download "MSASect2-(version number)-MacOS-ARM.dmg"<br>2. Open DMG file and copy "MSASect2" to Application</b></td>
   <tr>
-    <td><a href='https://github.com/zsulsw/MSASect2/releases'><img src='./image/mac.png' style="height:auto; width: 19px" /> <b>MacOS-x86:</b></a></td>
+    <td><a href='https://github.com/zsulsw/MSASect2/releases'><img src='./image/mac.png' style="height:auto; width: 19px" /> <b>MacOS - x86:</b></a></td>
     <td><b>1. Download "MSASect2-(version number)-MacOS-x86.dmg"<br>2. Open DMG file and copy "MSASect2" to Application</b></td>
 
 </table>
 
 Visit the **[GitHub Releases](https://github.com/zsulsw/MSASect2/releases)** to download the latest version or any previous release.
 
-macos intel chip
 
 ## 📕 Functions and Features
 
