@@ -11,24 +11,23 @@
 <a href="https://github.com/zsulsw/MSASect2/releases" target="_blank">
 <img alt="Windows" src="https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows&logoColor=white" />
 </a>
-![Status](https://img.shields.io/badge/status-beta-orange)
 
 <!--![Stable Version](https://img.shields.io/badge/version-1.0.6-green)-->
 <!--![Platform](https://img.shields.io/badge/platform-windows%20%7C%20macos-red)-->
 
-![Screen Shot Gif](/image/Main-Page.gif)
+![Screen Shot Gif](/image/v2.4.0-Main-Page.gif)
 
 ## 🌟 About the Software
-**MSASect2** is a cross-platform software developed for comprehensive analysis of arbitrary cross-sections with nonsymmetric shapes. This includes examining their cross-sectional properties, yield strengths, global and local buckling capacities,stress analysis, heat transfer analysis,  etc. The software hosts the advanced numerical algorithms, derived from the research team led by [Dr. Siwei Liu](https://www.gmnia.com) from the Department of Civil and Environmental Engineering at Hong Kong Polytechnic University. **MSASect2** is developed to address design challenges associated with complex and irregular cross-sections, which are increasingly popular in modern structures due to their superior structural efficiency. The software is free for both research and educational use. 
+**MSASect2** is a cross-platform software developed for comprehensive analysis of arbitrary cross-sections with nonsymmetric shapes. This includes examining their cross-sectional properties, yield strengths, global and local buckling capacities,stress analysis, heat transfer analysis, etc. The software hosts the advanced numerical algorithms, derived from the research team led by [Dr. Siwei Liu](https://www.gmnia.com) from the Department of Civil and Environmental Engineering at Hong Kong Polytechnic University. **MSASect2** is developed to address design challenges associated with complex and irregular cross-sections, which are increasingly popular in modern structures due to their superior structural efficiency. The software is free for both research and educational use. 
 
-**Please download the latest version:** <td><a href='https://github.com/zsulsw/MSASect2/releases'> <img src='./image/windows.png' style="height:auto; width: 14px" /> <b>Windowes: *.zip </b></a> | </td> <td><a href='https://github.com/zsulsw/MSASect2/releases'> <img src='./image/mac.png' style="height:auto; width: 15px" /> <b>MacOS - Apple Silicon Chips: *.dmg</b></a></td>
+**Please download the latest version:** <td><a href='https://github.com/zsulsw/MSASect2/releases/download/%23stable-v2.4.0/1-MSASect2-v2.4.0-Windows.zip'> <img src='./image/windows.png' style="height:auto; width: 18px" /> <b>Windows: *.zip - 290MB</b></a> | </td> <td><a href='https://github.com/zsulsw/MSASect2/releases/download/%23stable-v2.4.0/2-MSASect2-v2.4.0-MacOS-ARM.dmg'> <img src='./image/mac.png' style="height:auto; width: 19px" /> <b>MacOS - Apple Silicon Chips: *.dmg - 301MB</b></a> | </td> <td><a href='https://github.com/zsulsw/MSASect2/releases/download/%23stable-v2.4.0/3-MSASect2-v2.4.0-MacOS-x86.dmg'> <img src='./image/mac.png' style="height:auto; width: 19px" /> <b>MacOS - Intel Chips: *.dmg - 348MB</b></a></td>
 
 If you find the software helpful for your research or have thoughts on collaborative research, we would be delighted to hear from you.
 
 ## ⛄ Developers
 **Developed by:**
 
-- [**Siwei Liu**](https://www.polyu.edu.hk/cee/people/academic-staff/dr-siwei-liu/) - Assistant Professor, The Hong Kong Polytechnic University. [**si-wei.liu@polyu.edu.hk**](mailto:si-wei.liu@polyu.edu.hk).
+- [**Siwei Liu**](https://zsulsw.github.io/) - Assistant Professor, The Hong Kong Polytechnic University. [**si-wei.liu@polyu.edu.hk**](mailto:si-wei.liu@polyu.edu.hk).
 - [**Ronald D. Ziemian**](https://www.bucknell.edu/fac-staff/ronald-ziemian) - Professor, Bucknell University. [**ziemian@bucknell.edu**](mailto:ziemian@bucknell.edu).
 
 **Development team led by:**
@@ -37,7 +36,7 @@ If you find the software helpful for your research or have thoughts on collabora
 **Development Team:**
 - Wenlong Gao: Programming (Section properties, Yield surface, Moment Curvature, Member Buckling, Section Buckling), Debugging, Methodology.
 - Haoyi Zhang: Programming (Program structure, Visualization, Mesh, Section properties, Member Buckling, Stress analysis), Debugging, Methodology.
-- Guanhua Li: Programming (Functionally graded sections, Template, Member Buckling, Heat transfer), Debugging, Methodology.
+- Guanhua Li: Programming (Functionally graded sections, Templates, Member Buckling, Heat transfer), Debugging, Methodology.
 - Weihang Ouyang: Programming (Program structure, Member Buckling), Testing, Methodology.
 - Haien Xue: Programming (Stress analysis).
 - Zizhang Gu: Programming (Template, Heat transfer).
@@ -48,58 +47,35 @@ If you find the software helpful for your research or have thoughts on collabora
 ## 💻 Install
 <table>
   <tr>
-    <td><a href='https://github.com/zsulsw/MSASect2/releases'><img src='./image/windows.png' style="height:auto; width: 14px" /> <b>Windows:</b></a></td>
-    <td colspan="2" style="text-align:center"><b>1. Download "Windows-MSASect2-(version number).zip"<br>2. Unzip and Run "MSASect2.exe"</b></td>
+    <td><a href='https://github.com/zsulsw/MSASect2/releases/download/%23stable-v2.4.0/1-MSASect2-v2.4.0-Windows.zip'><img src='./image/windows.png' style="height:auto; width: 18px" /> <b>Windows:</b></a></td>
+    <td><b>1. Download "MSASect2-(version number)-Windows.zip"<br>2. Unzip and Run "MSASect2.exe"</b></td>
   <tr>
-    <td><a href='https://github.com/zsulsw/MSASect2/releases'><img src='./image/mac.png' style="height:auto; width: 15px" /> <b>MacOS-ARM:</b></a></td>
-    <td><b>1. Download "MacOS-ARM-MSASect2-(version number).dmg"<br>2. Open DMG file and copy "MSASect2" to Application</b></td>
+    <td><a href='https://github.com/zsulsw/MSASect2/releases'><img src='./image/mac.png' style="height:auto; width: 19px" /> <b>MacOS-ARM:</b></a></td>
+    <td><b>1. Download "MSASect2-(version number)-MacOS-ARM.dmg"<br>2. Open DMG file and copy "MSASect2" to Application</b></td>
+  <tr>
+    <td><a href='https://github.com/zsulsw/MSASect2/releases'><img src='./image/mac.png' style="height:auto; width: 19px" /> <b>MacOS-x86:</b></a></td>
+    <td><b>1. Download "MSASect2-(version number)-MacOS-x86.dmg"<br>2. Open DMG file and copy "MSASect2" to Application</b></td>
+
 </table>
 
 Visit the **[GitHub Releases](https://github.com/zsulsw/MSASect2/releases)** to download the latest version or any previous release.
 
-## <img src='./image/mac.png' style="height:25px; width: 25px" /> Installation in MacOS Notes:
-
-When you open the software after installation, you may see the message:
-> "It is damaged and cannot be opened. You should move it to the Bin."
-
-### Solution:
-
-#### First Step:
-1. Open **System Preferences**.
-2. Select **Security and Privacy**.
-3. Go to the **General** tab.
-4. Choose **Anywhere** under the "Allow apps downloaded from" section.
-
-#### Second Step:
-1. Copy the following command, but don't press enter yet (Note the space at the end.):
-
-```
-sudo xattr -r -d com.apple.quarantine
-```
-
-2. Open **Finder** and navigate to the **Applications** directory. Find the software icon.
-
-3. Drag the software icon into the Terminal window. This will append the path to the command you pasted. It should look something like:
-
-```
-sudo xattr -r -d com.apple.quarantine /Applications/MSASect2.app
-```
-
-4. Press **Enter** in the Terminal window.
-5. You will be prompted for your system password. Enter it and press **Enter** again.
-
+macos intel chip
 
 ## 📕 Functions and Features
 
 ### Advanced Analysis Algorithms
 + **Cross-section Properties:**
-  - **Coordinate Method (CM):** Specifically designed for thin-walled sections modeled via centerlines.
-  - **Finite Element Method (FEM):** Suitable for general cross-sections modeled by outlines.
+  - **Coordinate Method (CM):** Specifically designed for thin-walled sections modeled via **centerlines**.
+  - **Finite Element Method (FEM):** Suitable for general cross-sections modeled by **outlines**.
   - Geometric and sectorial properties, elastic and plastic modulus, Wagner coefficients, etc.
+  - Support for isotropic and anisotropic material properties analysis.
 + **Section Buckling Analysis:**
-  - **Finite Strip Method (FSM):** Efficient computational method for thin-walled sections (import and export to CUFSM5 supported). 
+  - **Shell Finite Strip Method:** Efficient computational method for thin-walled sections (import and export to CUFSM5 supported). 
+  - **Solid Finite Strip Method:** Advanced computational method that extends the classic Finite Strip Method by enabling the analysis of arbitrary three-dimensional geometries, eliminating the reliance on thin-wall assumptions or centerline modeling.
   - **Inelastic Finite Strip Method:** Material nonlinearity is supported in the buckling analysis of members with arbitrary sections using FSM.
   - **Shell Finite Element Method (SFEM):** Advanced computational method for the sections modeled via centerlines.
+  - **Model Participation:** Quantifies the contribution of different structural modes (like global, distortional, and local) to a component's overall deformation.
   - Elastic eigen-buckling analysis to evaluate the local, distortional and global buckling behaviors.  
 + **Member Buckling Analysis:**
   - **Twisting Effects:** As the requirements in American Steel Design Specification (ANSI/AISC 360-22),the buckling behaviors of members with nonsymmetric or monosymmetric sections should be studied for the twisting effects.
@@ -117,9 +93,9 @@ sudo xattr -r -d com.apple.quarantine /Applications/MSASect2.app
   - Various types of stress contours can be generated for output including normal stress, shear stress, von Mises stress, and major and minor principal stresses.
 + **Heat Transfer Analysis:**
   - **Finite Element Method (FEM):** Robust numerical algorithms for general cross-sections modeled by outlines.
-  - **Gaussian heat transfer analysis:** This method uses Gaussian planar triangular elements for outline models and is computationally efficient.
+  - **Refined cross-section analysis:** This method uses Nonhomogeneous planar triangular elements to obtain cross-sectional properties with thermal gradients and is computationally efficient.
   - **Steady-state and transient analysis** for heat transfer considering different boundary conditions, e.g., temperature, heat flux, convection, and emissivity.
-  - **Fire retardant coatings** are considered in the analysis.
+  - **Fireproof coatings and localized fires** are considered in the analysis.
 + **Moment Curvature Analysis:**
   - **Divergence-Free Algorithms:** Stable numerical procedure.
   - **Under Applied Axial Load:** Automatically find the netural axis.  
@@ -209,8 +185,47 @@ Thin-Walled Structures, 2021. 163, 107755,
 Journal of Constructional Steel Research, 2022. 198, 107537,
 [DOI](https://doi.org/10.1016/j.jcsr.2022.107537)
 
-- Chen, L., Zhang, H. Y., Liu, S. W., & Ziemian, R. D.:
-*"Efficient line-element method for the second-order analysis of steel members with nonsymmetric thick-Walled cross sections"*,
-Journal of Structural Engineering, 2024. 150(2), 04023226.
+- Chen, L., Zhang, H. Y., Liu, S.W., & Ziemian, R.D.: 
+*"Efficient Line-Element Method for the Second-Order Analysis of Steel Members with Nonsymmetric Thick-Walled Cross Sections"*,
+Journal of Structural Engineering, 2024. 150(2), 04023226,
 [DOI](https://doi.org/10.1061/JSENDH.STENG-12543)
 
+- Li, G. H., Gu, Z. Z., Zhang, H. Y., Ouyang W. H,. & Liu, S.W.:
+*"Line finite element method for geometrically nonlinear analysis of functionally graded members accounting for twisting effects"*,
+Composite Structures, 2024. 343, 118268.
+[DOI](https://doi.org/10.1016/j.compstruct.2024.118268)
+
+- Li, G. H., Gu, Z. Z., Ouyang W. H., Liu, S.W., & Abdelrahman, A.H.A.:
+*"Finite-element-based cross-section analysis method for functionally graded sandwich members with arbitrary shapes and gradients"*,
+Journal of Sandwich Structures & Materials, 2024. 150(2), 04023226.
+[DOI](https://doi.org/10.1177/10996362241275557)
+
+- Zhang, H. Y., Ho, G. W., Liu, S.W., Chen, L., & Chan S. L.:
+*"Advanced line-finite-element for lateral-torsional buckling of beams with torsion and warping restraints"*,
+Journal of Constructional Steel Research, 2025. 224, 109103.
+[DOI](https://doi.org/10.1016/j.jcsr.2024.109103)
+
+- Li, G. H., Gu, Z. Z., Du, E. F., Liu, S.W. Liu Y. P., & Chan S. L.:
+*"Global buckling analysis of IFC-protected steel members with irregular sections under fire"*,
+Journal of Constructional Steel Research, 2025. 224, 109158.
+[DOI](https://doi.org/10.1016/j.jcsr.2024.109158)
+
+- Li, G. H., Gu, Z. Z., Chen, L., & Liu, S. W.:
+*"Geometrically nonlinear analysis of steel members under non-uniform fire considering twisting effects"*,
+Journal of Constructional Steel Research, 2025. 231, 109596.
+[DOI](https://doi.org/10.1016/j.jcsr.2025.109596)
+
+- Gao, W. L., Chen, L., Ziemian, R.D., & Liu, S. W.: 
+*"Improved shell-finite strip method for inelastic buckling analysis of thin-walled steel members with residual stresses"*,
+Thin-Walled Structures, 2025. 211, 113064.
+[DOI](https://doi.org/10.1016/j.tws.2025.113064)
+
+- Xue, H. E., Li, Y. L., Zhao, X. L., Chen L., & Liu, S. W.:
+*"Improved finite-element-based stress analysis method for cylindrical orthotropic members with arbitrary cross-sections considering ring orientation"*,
+Structures, 2025. 80, 110109.
+[DOI](https://doi.org/10.1016/j.istruc.2025.110109)
+
+- Zhang, H. Y., Liang, A. R., Liu, S. W., Liu Y. P., & Chan S. L.:
+*"Refined FE-based cross-section analysis for line element simulation of WAAM steel members considering anisotropy"*,
+Structures, 2025. 81, 110236.
+[DOI](https://doi.org/10.1016/j.istruc.2025.110236)
