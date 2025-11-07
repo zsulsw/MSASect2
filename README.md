@@ -78,7 +78,7 @@ If you find the software helpful for your research or have thoughts on collabora
   - **Solid Finite Strip Method:** Advanced computational method that extends the classic Finite Strip Method by enabling the analysis of arbitrary three-dimensional geometries, eliminating the reliance on thin-wall assumptions or centerline modeling.
   - **Inelastic Finite Strip Method:** Material nonlinearity is supported in the buckling analysis of members with arbitrary sections using FSM.
   - **Shell Finite Element Method (SFEM):** Advanced computational method for the sections modeled via centerlines.
-  - **Model Participation:** Quantifies the contribution of different structural modes (like global, distortional, and local) to a component's overall deformation.
+  - **Modal Participation:** Quantifies the contribution of different structural modes (like global, distortional, and local) to a component's overall deformation.
   - Elastic eigen-buckling analysis to evaluate the local, distortional and global buckling behaviors.  
 + **Member Buckling Analysis:**
   - **Twisting Effects:** As the requirements in American Steel Design Specification (ANSI/AISC 360-22),the buckling behaviors of members with nonsymmetric or monosymmetric sections should be studied for the twisting effects.
