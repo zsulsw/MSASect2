@@ -20,18 +20,32 @@
 ## 🌟 About the Software
 **MSASect2** is a cross-platform software developed for comprehensive analysis of arbitrary cross-sections with nonsymmetric shapes. This includes examining their cross-sectional properties, yield strengths, global and local buckling capacities,stress analysis, heat transfer analysis, etc. The software is developed to address design challenges associated with complex and irregular cross-sections, which are increasingly popular in modern structures due to their superior structural efficiency. The software is free for both research and educational use.
 
-**Please download the latest version:**
+### 📥 Download Latest Version
 
-<a href='https://github.com/zsulsw/MSASect2/releases/download/%23stable-v2.4.0/1-MSASect2-v2.4.0-Windows.zip'>
-<img src='./image/windows.png' style="height:auto; width: 18px" alt="Windows" /> <b>Windows: *.zip - 290MB</b>
-</a><br>
-<a href='https://github.com/zsulsw/MSASect2/releases/download/%23stable-v2.4.0/2-MSASect2-v2.4.0-MacOS-ARM.dmg'>
-<img src='./image/mac.png' style="height:auto; width: 19px" alt="Mac" /> <b>MacOS - Apple Silicon: *.dmg - 301MB</b>
-</a><br>
-<a href='https://github.com/zsulsw/MSASect2/releases/download/%23stable-v2.4.0/3-MSASect2-v2.4.0-MacOS-x86.dmg'>
-  <img src='./image/mac.png' style="height:auto; width: 19px" alt="Mac" /> <b>MacOS - Intel: *.dmg - 348MB</b>
+<table>
+  <tr>
+    <th>Platform</th>
+    <th>Download</th>
+    <th>File Size</th>
+  </tr>
+  <tr>
+    <td><img src='./image/windows.png' style="height:auto; width: 18px" alt="Windows" /> <b>Windows</b></td>
+    <td><a href='https://github.com/zsulsw/MSASect2/releases/download/%23stable-v2.4.0/1-MSASect2-v2.4.0-Windows.zip'><b>MSASect2-v2.4.0-Windows.zip</b></a></td>
+    <td>290 MB</td>
+  </tr>
+  <tr>
+    <td><img src='./image/mac.png' style="height:auto; width: 19px" alt="Mac" /> <b>macOS (Apple Silicon)</b></td>
+    <td><a href='https://github.com/zsulsw/MSASect2/releases/download/%23stable-v2.4.0/2-MSASect2-v2.4.0-MacOS-ARM.dmg'><b>MSASect2-v2.4.0-MacOS-ARM.dmg</b></a></td>
+    <td>301 MB</td>
+  </tr>
+  <tr>
+    <td><img src='./image/mac.png' style="height:auto; width: 19px" alt="Mac" /> <b>macOS (Intel)</b></td>
+    <td><a href='https://github.com/zsulsw/MSASect2/releases/download/%23stable-v2.4.0/3-MSASect2-v2.4.0-MacOS-x86.dmg'><b>MSASect2-v2.4.0-MacOS-x86.dmg</b></a></td>
+    <td>348 MB</td>
+  </tr>
+</table>
 
-</a></td>
+<sub>Visit the <a href="https://github.com/zsulsw/MSASect2/releases">GitHub Releases</a> page to download previous versions or view release notes.</sub>
 
 If you find the software helpful for your research or have thoughts on collaborative research, we would be delighted to hear from you.
 
@@ -49,7 +63,6 @@ If you find the software helpful for your research or have thoughts on collabora
 
 </table>
 
-Visit the **[GitHub Releases](https://github.com/zsulsw/MSASect2/releases)** to download the latest version or any previous release.
 
 
 ## 📕 Functions and Features
@@ -140,6 +153,9 @@ We welcome contributions from the community to help improve and enhance MSASect2
 
 ## 📜 Useful References
 
+<details>
+<summary><strong>Click to expand/collapse references</strong> 📚</summary>
+
 - Liu, S.W., Liu, Y.P. & Chan, S.L.:
 *"Advanced analysis of hybrid steel and concrete frames: part 1: cross-section analysis technique and second-order analysis"*,
 Journal of Constructional Steel Research, 2012. 70, 326-336.
@@ -147,7 +163,7 @@ Journal of Constructional Steel Research, 2012. 70, 326-336.
 
 - Chen, L., Liu, S.W. & Chan, S.L.:
 *"Divergence-free algorithms for moment-thrust-curvature analysis of arbitrary sections"*,
-Steel and Composite Structures, An International Journal, 2017, 25 (5), 557-569
+Steel and Composite Structures, An International Journal, 2017, 25 (5), 557-569
 [DOI](https://doi.org/10.12989/scs.2017.25.5.557)
 
 - Liu, S.W., Ziemian, R.D., Chen, L., and Chan S.L.:
@@ -219,3 +235,5 @@ Structures, 2025. 80, 110109.
 *"Refined FE-based cross-section analysis for line element simulation of WAAM steel members considering anisotropy"*,
 Structures, 2025. 81, 110236.
 [DOI](https://doi.org/10.1016/j.istruc.2025.110236)
+
+</details>
