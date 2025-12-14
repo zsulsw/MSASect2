@@ -56,12 +56,12 @@
 
 
 
-<sub>
 
-* Windows: Windows 10 or later (64-bit, x86-64).
-* macOS (Apple Silicon): Apple silicon (M-series: M1/M2/M3/M4 and later, ARM64) build.
-* macOS (Intel): Intel-based Macs (x86-64) build.
-</sub>
+
+* <sub> Windows: Windows 10 or later (64-bit, x86-64). </sub>
+* <sub> macOS (Apple Silicon): Apple silicon (M-series: M1/M2/M3/M4 and later, ARM64) build. </sub>
+* <sub> macOS (Intel): Intel-based Macs (x86-64) build. </sub>
+
 
 If you find the software helpful for your research or have thoughts on collaborative research, we would be delighted to hear from you.
 
