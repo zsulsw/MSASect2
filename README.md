@@ -22,26 +22,35 @@
 
 ### 📥 Download Latest Version
 
+**Latest release stats (auto-updated):**  
+[![Latest release](https://img.shields.io/github/v/release/zsulsw/MSASect2?label=latest%20release&style=flat-square)](https://github.com/zsulsw/MSASect2/releases/latest)
+[![Downloads (latest release)](https://img.shields.io/github/downloads/zsulsw/MSASect2/latest/total?label=downloads%20(latest%20release)&style=flat-square)](https://github.com/zsulsw/MSASect2/releases/latest)
+[![Downloads (all releases)](https://img.shields.io/github/downloads/zsulsw/MSASect2/total?label=downloads%20(all%20releases)&style=flat-square)](https://github.com/zsulsw/MSASect2/releases)
+
 <table>
   <tr>
     <th>Platform</th>
     <th>Download</th>
     <th>File Size</th>
+    <th>Downloads</th>
   </tr>
   <tr>
     <td><img src='./image/windows.png' style="height:auto; width: 18px" alt="Windows" /> <b>Windows</b></td>
     <td><a href='https://github.com/zsulsw/MSASect2/releases/download/%23stable-v2.4.0/1-MSASect2-v2.4.0-Windows.zip'><b>MSASect2-v2.4.0-Windows.zip</b></a></td>
     <td>290 MB</td>
+    <td align="center"><a href="https://github.com/zsulsw/MSASect2/releases/latest"><img alt="Downloads" src="https://img.shields.io/badge/dynamic/json?style=flat&label=%20&color=000000&labelColor=000000&query=%24.assets%5B0%5D.download_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fzsulsw%2FMSASect2%2Freleases%2Flatest" /></a></td>
   </tr>
   <tr>
     <td><img src='./image/mac.png' style="height:auto; width: 19px" alt="Mac" /> <b>macOS (Apple Silicon)</b></td>
     <td><a href='https://github.com/zsulsw/MSASect2/releases/download/%23stable-v2.4.0/2-MSASect2-v2.4.0-MacOS-ARM.dmg'><b>MSASect2-v2.4.0-MacOS-ARM.dmg</b></a></td>
     <td>301 MB</td>
+    <td align="center"><a href="https://github.com/zsulsw/MSASect2/releases/latest"><img alt="Downloads" src="https://img.shields.io/badge/dynamic/json?style=flat&label=%20&color=000000&labelColor=000000&query=%24.assets%5B1%5D.download_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fzsulsw%2FMSASect2%2Freleases%2Flatest" /></a></td>
   </tr>
   <tr>
     <td><img src='./image/mac.png' style="height:auto; width: 19px" alt="Mac" /> <b>macOS (Intel)</b></td>
     <td><a href='https://github.com/zsulsw/MSASect2/releases/download/%23stable-v2.4.0/3-MSASect2-v2.4.0-MacOS-x86.dmg'><b>MSASect2-v2.4.0-MacOS-x86.dmg</b></a></td>
     <td>348 MB</td>
+    <td align="center"><a href="https://github.com/zsulsw/MSASect2/releases/latest"><img alt="Downloads" src="https://img.shields.io/badge/dynamic/json?style=flat&label=%20&color=000000&labelColor=000000&query=%24.assets%5B2%5D.download_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fzsulsw%2FMSASect2%2Freleases%2Flatest" /></a></td>
   </tr>
 </table>
 
