@@ -15,7 +15,7 @@
 <!--![Stable Version](https://img.shields.io/badge/version-1.0.6-green)-->
 <!--![Platform](https://img.shields.io/badge/platform-windows%20%7C%20macos-red)-->
 
-![Screen Shot Gif](/image/v2.4.0-Main-Page.gif)
+![Screen Shot Gif](/image/v2.5.0-Main-Page.gif)
 
 ## 🌟 About the Software
 **MSASect2** is a cross-platform software developed for comprehensive analysis of arbitrary cross-sections with nonsymmetric shapes. This includes examining their cross-sectional properties, yield strengths, global and local buckling capacities,stress analysis, heat transfer analysis, etc. The software is developed to address design challenges associated with complex and irregular cross-sections, which are increasingly popular in modern structures due to their superior structural efficiency. The software is free for both research and educational use.
