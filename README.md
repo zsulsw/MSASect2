@@ -79,7 +79,20 @@ If you find the software helpful for your research or have thoughts on collabora
 
 </table>
 
+## 📌 What's New in MSASect2-v2.5.0 ?  
 
++ **Cross-section Properties**  
+  - **Finite Element Method (FEM):** Added calculation of **Torsional plastic section modulus**, **nominal torsional strength**, and **torsional shape factor**.  
+
++ **Section Buckling Analysis**  
+  - **Shell Finite Strip Method:**  
+  - Added elastic buckling evaluation for **anisotropic material properties** (e.g., WAAM).  
+  - Added elastic buckling evaluation for **cross-sections with tapered thickness**.  
+  - Enhanced **modal decomposition and participation** analysis for cross-sections with tapered thickness.  
+
++ **General Improvements**  
+  - Fixed several potential bugs and addressed user-reported issues.  
+ 
 
 ## 📕 Functions and Features
 
