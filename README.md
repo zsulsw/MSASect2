@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td><img src='./image/mac.png' style="height:auto; width: 19px" alt="Mac" /> <b>macOS (Apple Silicon)</b></td>
-    <td><a href='https://github.com/zsulsw/MSASect2/releases/download/%23stable-v2.5.0/20260421-MSASect2-v2.5.0-MacOS-ARM.dmg.zip'><b>MSASect2-v2.4.0-MacOS-ARM.dmg</b></a></td>
+    <td><a href='https://github.com/zsulsw/MSASect2/releases/download/%23stable-v2.5.0/20260421-MSASect2-v2.5.0-MacOS-ARM.dmg.zip'><b>MSASect2-v2.5.0-MacOS-ARM.dmg</b></a></td>
     <td>301 MB</td>
     <td align="center"><a href="https://github.com/zsulsw/MSASect2/releases/latest"><img alt="Downloads" src="https://img.shields.io/badge/dynamic/json?style=flat&label=&color=3fb950&query=%24.assets%5B1%5D.download_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fzsulsw%2FMSASect2%2Freleases%2Flatest" /></a></td>
   </tr>
