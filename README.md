@@ -18,7 +18,12 @@
 ![Screen Shot Gif](/image/v2.5.0-Main-Page.gif)
 
 ## 🌟 About the Software
+
+<div align="justify">
+
 **MSASect2** is a cross-platform software developed for comprehensive analysis of arbitrary cross-sections with nonsymmetric shapes. This includes examining their cross-sectional properties, yield strengths, global and local buckling capacities,stress analysis, heat transfer analysis, etc. The software is developed to address design challenges associated with complex and irregular cross-sections, which are increasingly popular in modern structures due to their superior structural efficiency. The software is free for both research and educational use.
+
+</div>
 
 ### 📥 Download Latest Version
 
@@ -37,19 +42,19 @@
   <tr>
     <td><img src='./image/windows.png' style="height:auto; width: 18px" alt="Windows" /> <b>Windows</b></td>
     <td><a href='https://github.com/zsulsw/MSASect2/releases/tag/%23stable-v2.5.1/20260602-MSASect2-v2.5.1-Windows.zip'><b>MSASect2-v2.5.1-Windows.zip</b></a></td>
-    <td>290 MB</td>
+    <td>269 MB</td>
     <td align="center"><a href="https://github.com/zsulsw/MSASect2/releases/latest"><img alt="Downloads" src="https://img.shields.io/badge/dynamic/json?style=flat&label=&color=3fb950&query=%24.assets%5B0%5D.download_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fzsulsw%2FMSASect2%2Freleases%2Flatest" /></a></td>
   </tr>
   <tr>
     <td><img src='./image/mac.png' style="height:auto; width: 19px" alt="Mac" /> <b>macOS (Apple Silicon)</b></td>
     <td><a href='https://github.com/zsulsw/MSASect2/releases/tag/%23stable-v2.5.1/20260602-MSASect2-v2.5.1-MacOS-ARM.zip'><b>MSASect2-v2.5.1-MacOS-ARM.dmg</b></a></td>
-    <td>301 MB</td>
+    <td>293 MB</td>
     <td align="center"><a href="https://github.com/zsulsw/MSASect2/releases/latest"><img alt="Downloads" src="https://img.shields.io/badge/dynamic/json?style=flat&label=&color=3fb950&query=%24.assets%5B1%5D.download_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fzsulsw%2FMSASect2%2Freleases%2Flatest" /></a></td>
   </tr>
   <tr>
     <td><img src='./image/mac.png' style="height:auto; width: 19px" alt="Mac" /> <b>macOS (Intel)</b></td>
     <td><a href='https://github.com/zsulsw/MSASect2/releases/tag/%23stable-v2.5.1/20260602-MSASect2-v2.5.1-MacOS-x86.zip'><b>MSASect2-v2.5.1-MacOS-x86.dmg</b></a></td>
-    <td>348 MB</td>
+    <td>345 MB</td>
     <td align="center"><a href="https://github.com/zsulsw/MSASect2/releases/latest"><img alt="Downloads" src="https://img.shields.io/badge/dynamic/json?style=flat&label=&color=3fb950&query=%24.assets%5B2%5D.download_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fzsulsw%2FMSASect2%2Freleases%2Flatest" /></a></td>
   </tr>
 </table>
@@ -96,6 +101,7 @@ If you find the software helpful for your research or have thoughts on collabora
 
 ## 📕 Functions and Features
 
+
 ### Advanced Analysis Algorithms
 + **Cross-section Properties:**
   - **Coordinate Method (CM):** Specifically designed for thin-walled sections modeled via **centerlines**.
@@ -140,6 +146,7 @@ If you find the software helpful for your research or have thoughts on collabora
 - Import and export to CUFSM5
 - Export to MASTAN2
 
+
 ## 📌 Citation
 
 If you use MSASect2 for academic research, please cite the software using the following:
@@ -172,13 +179,21 @@ Liu, Si-Wei, and Ziemian, Ronald D. "MSASect2 - Matrix Structural Analysis Softw
 
 ## 🎁 Contributing
 
+<div align="justify">
+
 **Your contributions** are greatly appreciated! If you have any questions or suggestions that could further enhance the software, please don't hesitate to open a [**github issue**](https://github.com/zsulsw/MSASect2/issues). Your input will help make the software even better.
 
 We welcome contributions from the community to help improve and enhance MSASect2. Whether it's code improvements, bug fixes, or new features, your contributions are valuable. If you are interested in research collaborations related to the software's capabilities, please contact [**Dr.Siwei Liu**](https://zsulsw.github.io/)  at Email: [**si-wei.liu@polyu.edu.hk**](mailto:si-wei.liu@polyu.edu.hk).
 
+</div>
+
 ## ✔️ Disclaimer
 
+<div align="justify">
+
 **Considerable care** has been taken to ensure the accuracy of this software. However, the user assumes full responsibility for its use, and the developers or distributors will not be liable for any damage caused by the use or misuse of this software. The user should have a thorough understanding of the software's modeling, analysis, and design algorithms, and should compensate for any aspects that are not addressed. 
+
+</div>
 
 ## 📜 Useful References
 
