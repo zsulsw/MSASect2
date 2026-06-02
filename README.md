@@ -36,19 +36,19 @@
   </tr>
   <tr>
     <td><img src='./image/windows.png' style="height:auto; width: 18px" alt="Windows" /> <b>Windows</b></td>
-    <td><a href='https://github.com/zsulsw/MSASect2/releases/download/%23stable-v2.5.0/20260421-MSASect2-v2.5.0-Windows.zip'><b>MSASect2-v2.5.0-Windows.zip</b></a></td>
-    <td>305 MB</td>
+    <td><a href='https://github.com/zsulsw/MSASect2/releases/tag/%23stable-v2.5.1/20260602-MSASect2-v2.5.1-Windows.zip'><b>MSASect2-v2.5.1-Windows.zip</b></a></td>
+    <td>290 MB</td>
     <td align="center"><a href="https://github.com/zsulsw/MSASect2/releases/latest"><img alt="Downloads" src="https://img.shields.io/badge/dynamic/json?style=flat&label=&color=3fb950&query=%24.assets%5B0%5D.download_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fzsulsw%2FMSASect2%2Freleases%2Flatest" /></a></td>
   </tr>
   <tr>
     <td><img src='./image/mac.png' style="height:auto; width: 19px" alt="Mac" /> <b>macOS (Apple Silicon)</b></td>
-    <td><a href='https://github.com/zsulsw/MSASect2/releases/download/%23stable-v2.5.0/20260421-MSASect2-v2.5.0-MacOS-ARM.dmg.zip'><b>MSASect2-v2.5.0-MacOS-ARM.dmg</b></a></td>
-    <td>287 MB</td>
+    <td><a href='https://github.com/zsulsw/MSASect2/releases/tag/%23stable-v2.5.1/20260602-MSASect2-v2.5.1-MacOS-ARM.zip'><b>MSASect2-v2.5.1-MacOS-ARM.dmg</b></a></td>
+    <td>301 MB</td>
     <td align="center"><a href="https://github.com/zsulsw/MSASect2/releases/latest"><img alt="Downloads" src="https://img.shields.io/badge/dynamic/json?style=flat&label=&color=3fb950&query=%24.assets%5B1%5D.download_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fzsulsw%2FMSASect2%2Freleases%2Flatest" /></a></td>
   </tr>
   <tr>
     <td><img src='./image/mac.png' style="height:auto; width: 19px" alt="Mac" /> <b>macOS (Intel)</b></td>
-    <td><a href='https://github.com/zsulsw/MSASect2/releases/download/%23stable-v2.4.0/3-MSASect2-v2.4.0-MacOS-x86.dmg'><b>MSASect2-v2.4.0-MacOS-x86.dmg</b></a></td>
+    <td><a href='https://github.com/zsulsw/MSASect2/releases/tag/%23stable-v2.5.1/20260602-MSASect2-v2.5.1-MacOS-x86.zip'><b>MSASect2-v2.5.1-MacOS-x86.dmg</b></a></td>
     <td>348 MB</td>
     <td align="center"><a href="https://github.com/zsulsw/MSASect2/releases/latest"><img alt="Downloads" src="https://img.shields.io/badge/dynamic/json?style=flat&label=&color=3fb950&query=%24.assets%5B2%5D.download_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fzsulsw%2FMSASect2%2Freleases%2Flatest" /></a></td>
   </tr>
@@ -68,7 +68,7 @@ If you find the software helpful for your research or have thoughts on collabora
 ## 💻 Install
 <table>
   <tr>
-    <td><a href='https://github.com/zsulsw/MSASect2/releases/download/%23stable-v2.5.0/20260421-MSASect2-v2.5.0-Windows.zip'><img src='./image/windows.png' style="height:auto; width: 18px" /> <b>Windows:</b></a></td>
+    <td><a href='https://github.com/zsulsw/MSASect2/releases'><img src='./image/windows.png' style="height:auto; width: 18px" /> <b>Windows:</b></a></td>
     <td><b>1. Download "MSASect2-(version number)-Windows.zip"<br>2. Unzip and Run "MSASect2.exe"</b></td>
   <tr>
     <td><a href='https://github.com/zsulsw/MSASect2/releases'><img src='./image/mac.png' style="height:auto; width: 19px" /> <b>MacOS - ARM:</b></a></td>
@@ -79,7 +79,7 @@ If you find the software helpful for your research or have thoughts on collabora
 
 </table>
 
-## 📌 What's New in MSASect2-v2.5.0 ?  
+## 📌 What's New in MSASect2-v2.5.1 ?  
 
 + **Cross-section Properties**  
   - **Finite Element Method (FEM):** Added calculation of **Torsional plastic section modulus**, **nominal torsional strength**, and **torsional shape factor**.  
